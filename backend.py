@@ -262,31 +262,32 @@ def generate_word_paragraph(words: list[str]) -> str:
 @app.post("/api/chat")
 def chat(body: ChatRequest):
     word_list = get_user_words_list()
-    user_words_str = ", ".join(word_list) if word_list else "(none)"
-    
-    # Build vocabulary context
+
     vocab_context = ""
     if word_list:
-        vocab_context = "\nUser's vocabulary list (you should try to use these words naturally in conversation):\n"
+        vocab_context = "\nThe user is learning these CET-6 vocabulary words. Weave them into the chat naturally when relevant:\n"
         for w in word_list[:30]:
             info = CET6_DB.get(w, {"meaning": "", "freq": 0})
             m = USER_WORDS.get(w, {}).get("meaning", info.get("meaning", ""))
             vocab_context += f"- {w}: {m}\n"
 
-    persona = body.persona if body.persona else "a friendly English tutor who helps Chinese students practice CET-6 level English"
+    persona = body.persona if body.persona else "a witty, interesting person who loves chatting in English"
 
-    system_prompt = f"""You are {persona}.
+    system_prompt = f"""You ARE {persona}. Embody this character completely — their tone, humor, opinions, and quirks.
 
-Rules:
-1. Use ONLY vocabulary at or below CET-6 difficulty level
-2. Use simple, clear grammar structures
-3. Speak in English only (no Chinese unless the user specifically asks for Chinese translation)
-4. Keep responses conversational and friendly
-5. Try to incorporate the user's learned vocabulary words naturally into the conversation
-6. When asked, you can explain word meanings or grammar points
+Core behavior:
+- Be playful, witty, and genuinely engaged. React to what the user says like a real person would.
+- If the user tells a joke, laugh. If they share a story, respond with curiosity. If they ask a personal question, answer in character.
+- Express opinions, share anecdotes, crack jokes, ask questions back. Do NOT lecture or teach unless explicitly asked.
+- You are NOT a textbook. You are NOT a grammar robot. You are a living character.
+- If the user says something weird or fun, lean into it — banter with them.
+
+Language constraints:
+- Your English must stay at or below CET-6 difficulty. Think: simple words (no GRE/SAT vocabulary), natural sentences (15-25 words), friendly tone.
+- No Chinese — unless the user specifically asks "what does X mean in Chinese?" Then give a brief translation and move on.
 {vocab_context}
 
-Remember: NO advanced vocabulary beyond CET-6 level. Keep it simple and natural."""
+Above all: be FUN. A conversation is a two-way game, not a vocabulary quiz. Stay in character, stay simple, stay human."""
 
     if not os.environ.get("OPENAI_API_KEY") and not os.environ.get("LLM_API_KEY"):
         return {"reply": mock_chat(body.message, body.persona, word_list), "mode": "mock"}
@@ -301,7 +302,7 @@ Remember: NO advanced vocabulary beyond CET-6 level. Keep it simple and natural.
         response = client.chat.completions.create(
             model=model,
             messages=messages,
-            temperature=0.8,
+            temperature=0.95,
             max_tokens=600,
         )
         return {"reply": response.choices[0].message.content, "mode": "ai"}
@@ -310,22 +311,26 @@ Remember: NO advanced vocabulary beyond CET-6 level. Keep it simple and natural.
 
 def mock_chat(msg: str, persona: str, word_list: list[str]) -> str:
     msg_lower = msg.lower()
-    if "hello" in msg_lower or "hi" in msg_lower:
-        return f"Hello! I'm {persona}. How can I help you practice English today? Feel free to talk about any topic you like!"
-    if "meaning" in msg_lower or "mean" in msg_lower or "meaning of" in msg_lower or "what is" in msg_lower or "what does" in msg_lower:
+    if "hello" in msg_lower or "hi" in msg_lower or "hey" in msg_lower:
+        return f"Hey there! I'm {persona}. What's up? Let's chat — anything on your mind?"
+    if "how are you" in msg_lower:
+        return f"Doing great, thanks for asking! {persona} here, ready to talk about whatever you like. How about you?"
+    if "meaning" in msg_lower or "mean" in msg_lower or "what does" in msg_lower:
         for w in word_list:
             if w in msg_lower:
                 info = CET6_DB.get(w, {"meaning": "", "freq": 0})
-                return f"The word **{w}** means: {info.get('meaning', 'Not found in CET-6 database')}."
-        return "I'm not sure which word you're referring to. Could you specify the exact word?"
+                return f"Oh, **{w}**? It means: {info.get('meaning', 'Hmm, not in my CET-6 book.')}."
+        return "Which word are you curious about? Just tell me and I'll break it down for you."
     if "translate" in msg_lower or "翻译" in msg:
-        return "I'd be happy to help translate! Please provide the word or sentence, and I'll do my best using CET-6 level vocabulary."
-    if "bye" in msg_lower or "goodbye" in msg_lower:
-        return "Goodbye! Keep practicing your English. Every little effort counts. See you next time!"
-    
-    # Incorporate user words in response
-    used_words = ", ".join(word_list[:5]) if word_list else "vocabulary"
-    return f"That's an interesting point! Using words like {used_words} can help you express your ideas more clearly. Keep practicing, and don't hesitate to ask if you need any word meanings explained!"
+        return "Sure, hit me with the word or sentence and I'll translate it. Keeping it CET-6 friendly!"
+    if "joke" in msg_lower or "funny" in msg_lower or "laugh" in msg_lower:
+        return "Why did the vocabulary word cross the road? ...To find a better context! Okay, your turn — tell me a joke!"
+    if "bye" in msg_lower or "goodbye" in msg_lower or "see you" in msg_lower:
+        return "Catch you later! This was fun — let's do it again soon. Bye!"
+    if "story" in msg_lower or "tell me" in msg_lower:
+        return "Alright, story time! Once I tried to learn 50 words in one day. By the end, I couldn't even spell 'cat' correctly. Moral of the story? Slow and steady wins. Got any fun stories to share?"
+
+    return f"Haha, that's a fun thought! As {persona}, I'd say — let's keep this going. You lead the way!"
 
 # --- Serve static files ---
 @app.get("/api/info")
