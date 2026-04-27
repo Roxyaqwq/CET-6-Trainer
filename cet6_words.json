@@ -1,0 +1,4499 @@
+{
+  "words": [
+    {
+      "word": "abandon",
+      "meaning": "放弃；抛弃",
+      "freq": 22
+    },
+    {
+      "word": "abstract",
+      "meaning": "抽象的；摘要",
+      "freq": 25
+    },
+    {
+      "word": "academic",
+      "meaning": "学术的；学院的",
+      "freq": 28
+    },
+    {
+      "word": "access",
+      "meaning": "进入；通路；访问",
+      "freq": 30
+    },
+    {
+      "word": "accommodate",
+      "meaning": "容纳；适应；提供住宿",
+      "freq": 18
+    },
+    {
+      "word": "accompany",
+      "meaning": "陪伴；伴随",
+      "freq": 20
+    },
+    {
+      "word": "accomplish",
+      "meaning": "完成；实现",
+      "freq": 22
+    },
+    {
+      "word": "account",
+      "meaning": "账户；说明；占比",
+      "freq": 28
+    },
+    {
+      "word": "accumulate",
+      "meaning": "积累；积聚",
+      "freq": 16
+    },
+    {
+      "word": "accurate",
+      "meaning": "准确的；精确的",
+      "freq": 21
+    },
+    {
+      "word": "achieve",
+      "meaning": "达到；取得",
+      "freq": 26
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "承认；确认",
+      "freq": 20
+    },
+    {
+      "word": "acquire",
+      "meaning": "获得；习得",
+      "freq": 23
+    },
+    {
+      "word": "adapt",
+      "meaning": "适应；改编",
+      "freq": 24
+    },
+    {
+      "word": "adequate",
+      "meaning": "充足的；适当的",
+      "freq": 19
+    },
+    {
+      "word": "adjust",
+      "meaning": "调整；适应",
+      "freq": 22
+    },
+    {
+      "word": "administration",
+      "meaning": "管理；行政",
+      "freq": 20
+    },
+    {
+      "word": "adopt",
+      "meaning": "采用；收养",
+      "freq": 24
+    },
+    {
+      "word": "advance",
+      "meaning": "前进；进步；提前的",
+      "freq": 25
+    },
+    {
+      "word": "advantage",
+      "meaning": "优势；有利条件",
+      "freq": 28
+    },
+    {
+      "word": "affect",
+      "meaning": "影响；感动",
+      "freq": 30
+    },
+    {
+      "word": "afford",
+      "meaning": "负担得起；提供",
+      "freq": 22
+    },
+    {
+      "word": "aggressive",
+      "meaning": "侵略性的；进取的",
+      "freq": 16
+    },
+    {
+      "word": "allocate",
+      "meaning": "分配；拨出",
+      "freq": 15
+    },
+    {
+      "word": "alternative",
+      "meaning": "替代的；选择",
+      "freq": 26
+    },
+    {
+      "word": "ambiguous",
+      "meaning": "模糊的；模棱两可的",
+      "freq": 14
+    },
+    {
+      "word": "analyze",
+      "meaning": "分析",
+      "freq": 28
+    },
+    {
+      "word": "annual",
+      "meaning": "年度的；一年的",
+      "freq": 24
+    },
+    {
+      "word": "anticipate",
+      "meaning": "预期；期望",
+      "freq": 18
+    },
+    {
+      "word": "apparent",
+      "meaning": "明显的；表面的",
+      "freq": 21
+    },
+    {
+      "word": "appeal",
+      "meaning": "呼吁；吸引；上诉",
+      "freq": 20
+    },
+    {
+      "word": "application",
+      "meaning": "应用；申请",
+      "freq": 28
+    },
+    {
+      "word": "approach",
+      "meaning": "方法；接近",
+      "freq": 30
+    },
+    {
+      "word": "appropriate",
+      "meaning": "适当的；挪用",
+      "freq": 26
+    },
+    {
+      "word": "approve",
+      "meaning": "批准；赞成",
+      "freq": 22
+    },
+    {
+      "word": "arise",
+      "meaning": "出现；产生",
+      "freq": 24
+    },
+    {
+      "word": "artificial",
+      "meaning": "人工的；人造的",
+      "freq": 23
+    },
+    {
+      "word": "aspect",
+      "meaning": "方面；层面",
+      "freq": 28
+    },
+    {
+      "word": "assemble",
+      "meaning": "集合；组装",
+      "freq": 16
+    },
+    {
+      "word": "assess",
+      "meaning": "评估；评定",
+      "freq": 26
+    },
+    {
+      "word": "assign",
+      "meaning": "分配；指派",
+      "freq": 20
+    },
+    {
+      "word": "associate",
+      "meaning": "联系；关联；同事",
+      "freq": 24
+    },
+    {
+      "word": "assume",
+      "meaning": "假设；承担",
+      "freq": 27
+    },
+    {
+      "word": "atmosphere",
+      "meaning": "气氛；大气层",
+      "freq": 21
+    },
+    {
+      "word": "attach",
+      "meaning": "附加；连接；依恋",
+      "freq": 19
+    },
+    {
+      "word": "attain",
+      "meaning": "达到；获得",
+      "freq": 15
+    },
+    {
+      "word": "attitude",
+      "meaning": "态度；看法",
+      "freq": 26
+    },
+    {
+      "word": "attribute",
+      "meaning": "属性；归因于",
+      "freq": 22
+    },
+    {
+      "word": "authority",
+      "meaning": "权威；当局",
+      "freq": 24
+    },
+    {
+      "word": "available",
+      "meaning": "可用的；有效的",
+      "freq": 30
+    },
+    {
+      "word": "aware",
+      "meaning": "意识到的",
+      "freq": 28
+    },
+    {
+      "word": "barrier",
+      "meaning": "障碍；屏障",
+      "freq": 22
+    },
+    {
+      "word": "behalf",
+      "meaning": "代表（on behalf of）",
+      "freq": 18
+    },
+    {
+      "word": "behavior",
+      "meaning": "行为；举止",
+      "freq": 28
+    },
+    {
+      "word": "benefit",
+      "meaning": "利益；好处；受益",
+      "freq": 30
+    },
+    {
+      "word": "budget",
+      "meaning": "预算",
+      "freq": 24
+    },
+    {
+      "word": "capable",
+      "meaning": "有能力的",
+      "freq": 22
+    },
+    {
+      "word": "capacity",
+      "meaning": "能力；容量",
+      "freq": 26
+    },
+    {
+      "word": "category",
+      "meaning": "类别；范畴",
+      "freq": 20
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "freq": 30
+    },
+    {
+      "word": "circumstance",
+      "meaning": "环境；情况",
+      "freq": 24
+    },
+    {
+      "word": "collapse",
+      "meaning": "崩溃；倒塌",
+      "freq": 17
+    },
+    {
+      "word": "commission",
+      "meaning": "委员会；佣金；委托",
+      "freq": 20
+    },
+    {
+      "word": "commit",
+      "meaning": "承诺；犯（罪）；投入",
+      "freq": 24
+    },
+    {
+      "word": "communicate",
+      "meaning": "交流；沟通",
+      "freq": 28
+    },
+    {
+      "word": "community",
+      "meaning": "社区；社会；团体",
+      "freq": 30
+    },
+    {
+      "word": "compel",
+      "meaning": "迫使；强迫",
+      "freq": 16
+    },
+    {
+      "word": "compensate",
+      "meaning": "补偿；赔偿",
+      "freq": 18
+    },
+    {
+      "word": "competent",
+      "meaning": "有能力的；胜任的",
+      "freq": 17
+    },
+    {
+      "word": "competitive",
+      "meaning": "竞争的",
+      "freq": 24
+    },
+    {
+      "word": "complex",
+      "meaning": "复杂的；综合体",
+      "freq": 28
+    },
+    {
+      "word": "component",
+      "meaning": "组成部分；组件",
+      "freq": 22
+    },
+    {
+      "word": "comprehensive",
+      "meaning": "全面的；综合的",
+      "freq": 21
+    },
+    {
+      "word": "comprise",
+      "meaning": "包含；由...组成",
+      "freq": 15
+    },
+    {
+      "word": "concentrate",
+      "meaning": "集中；专注",
+      "freq": 23
+    },
+    {
+      "word": "concept",
+      "meaning": "概念；观念",
+      "freq": 28
+    },
+    {
+      "word": "concern",
+      "meaning": "关注；关心；涉及",
+      "freq": 30
+    },
+    {
+      "word": "conclude",
+      "meaning": "得出结论；结束",
+      "freq": 24
+    },
+    {
+      "word": "conduct",
+      "meaning": "行为；进行；指挥",
+      "freq": 26
+    },
+    {
+      "word": "conference",
+      "meaning": "会议；研讨会",
+      "freq": 21
+    },
+    {
+      "word": "confidence",
+      "meaning": "信心；自信",
+      "freq": 23
+    },
+    {
+      "word": "conflict",
+      "meaning": "冲突；矛盾",
+      "freq": 25
+    },
+    {
+      "word": "confront",
+      "meaning": "面对；对抗",
+      "freq": 17
+    },
+    {
+      "word": "consequence",
+      "meaning": "后果；结果",
+      "freq": 24
+    },
+    {
+      "word": "conservative",
+      "meaning": "保守的",
+      "freq": 19
+    },
+    {
+      "word": "considerable",
+      "meaning": "相当大的；可观的",
+      "freq": 22
+    },
+    {
+      "word": "consistent",
+      "meaning": "一致的；始终如一的",
+      "freq": 23
+    },
+    {
+      "word": "constant",
+      "meaning": "持续的；永恒的",
+      "freq": 22
+    },
+    {
+      "word": "constitute",
+      "meaning": "构成；组成",
+      "freq": 16
+    },
+    {
+      "word": "construct",
+      "meaning": "建造；构建",
+      "freq": 20
+    },
+    {
+      "word": "consume",
+      "meaning": "消费；消耗",
+      "freq": 26
+    },
+    {
+      "word": "contact",
+      "meaning": "联系；接触",
+      "freq": 28
+    },
+    {
+      "word": "contemporary",
+      "meaning": "当代的；同时代的",
+      "freq": 23
+    },
+    {
+      "word": "context",
+      "meaning": "上下文；背景",
+      "freq": 26
+    },
+    {
+      "word": "contract",
+      "meaning": "合同；收缩",
+      "freq": 22
+    },
+    {
+      "word": "contribute",
+      "meaning": "贡献；捐献",
+      "freq": 28
+    },
+    {
+      "word": "controversial",
+      "meaning": "有争议的",
+      "freq": 20
+    },
+    {
+      "word": "convenient",
+      "meaning": "方便的",
+      "freq": 21
+    },
+    {
+      "word": "conventional",
+      "meaning": "传统的；常规的",
+      "freq": 24
+    },
+    {
+      "word": "convince",
+      "meaning": "说服；使确信",
+      "freq": 22
+    },
+    {
+      "word": "cooperate",
+      "meaning": "合作",
+      "freq": 20
+    },
+    {
+      "word": "corporate",
+      "meaning": "公司的；法人的",
+      "freq": 23
+    },
+    {
+      "word": "correspond",
+      "meaning": "相对应；通信",
+      "freq": 19
+    },
+    {
+      "word": "counsel",
+      "meaning": "忠告；法律顾问",
+      "freq": 13
+    },
+    {
+      "word": "create",
+      "meaning": "创造；创建",
+      "freq": 30
+    },
+    {
+      "word": "crisis",
+      "meaning": "危机",
+      "freq": 26
+    },
+    {
+      "word": "criterion",
+      "meaning": "标准；准则",
+      "freq": 18
+    },
+    {
+      "word": "critical",
+      "meaning": "批判的；关键的；危重的",
+      "freq": 26
+    },
+    {
+      "word": "crucial",
+      "meaning": "关键的；至关重要的",
+      "freq": 24
+    },
+    {
+      "word": "cultivate",
+      "meaning": "培养；耕作",
+      "freq": 17
+    },
+    {
+      "word": "curiosity",
+      "meaning": "好奇心",
+      "freq": 20
+    },
+    {
+      "word": "current",
+      "meaning": "当前的；潮流",
+      "freq": 30
+    },
+    {
+      "word": "debate",
+      "meaning": "辩论；争论",
+      "freq": 24
+    },
+    {
+      "word": "decline",
+      "meaning": "下降；拒绝",
+      "freq": 25
+    },
+    {
+      "word": "dedicate",
+      "meaning": "奉献；致力",
+      "freq": 17
+    },
+    {
+      "word": "defend",
+      "meaning": "防御；为...辩护",
+      "freq": 20
+    },
+    {
+      "word": "define",
+      "meaning": "定义；界定",
+      "freq": 26
+    },
+    {
+      "word": "definite",
+      "meaning": "明确的；肯定的",
+      "freq": 16
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "展示；证明",
+      "freq": 26
+    },
+    {
+      "word": "deny",
+      "meaning": "否认；拒绝",
+      "freq": 22
+    },
+    {
+      "word": "deposit",
+      "meaning": "存款；押金；沉积",
+      "freq": 18
+    },
+    {
+      "word": "depress",
+      "meaning": "使沮丧；使萧条",
+      "freq": 19
+    },
+    {
+      "word": "derive",
+      "meaning": "源自；获得",
+      "freq": 21
+    },
+    {
+      "word": "deserve",
+      "meaning": "值得；应得",
+      "freq": 22
+    },
+    {
+      "word": "desperate",
+      "meaning": "绝望的；不顾一切的",
+      "freq": 18
+    },
+    {
+      "word": "destination",
+      "meaning": "目的地",
+      "freq": 19
+    },
+    {
+      "word": "determine",
+      "meaning": "决定；确定",
+      "freq": 28
+    },
+    {
+      "word": "device",
+      "meaning": "设备；装置",
+      "freq": 26
+    },
+    {
+      "word": "devote",
+      "meaning": "致力于；奉献",
+      "freq": 20
+    },
+    {
+      "word": "differentiate",
+      "meaning": "区分；区别",
+      "freq": 16
+    },
+    {
+      "word": "dilemma",
+      "meaning": "困境；进退两难",
+      "freq": 15
+    },
+    {
+      "word": "diminish",
+      "meaning": "减少；缩小",
+      "freq": 17
+    },
+    {
+      "word": "discrimination",
+      "meaning": "歧视；辨别",
+      "freq": 20
+    },
+    {
+      "word": "disorder",
+      "meaning": "混乱；失调",
+      "freq": 18
+    },
+    {
+      "word": "display",
+      "meaning": "展示；显示",
+      "freq": 26
+    },
+    {
+      "word": "dispose",
+      "meaning": "处理；布置",
+      "freq": 16
+    },
+    {
+      "word": "distinguish",
+      "meaning": "区分；辨别",
+      "freq": 24
+    },
+    {
+      "word": "distribute",
+      "meaning": "分配；分发",
+      "freq": 20
+    },
+    {
+      "word": "domestic",
+      "meaning": "国内的；家庭的",
+      "freq": 22
+    },
+    {
+      "word": "dominate",
+      "meaning": "主导；支配",
+      "freq": 23
+    },
+    {
+      "word": "draft",
+      "meaning": "草稿；起草；征兵",
+      "freq": 18
+    },
+    {
+      "word": "dramatic",
+      "meaning": "戏剧性的；巨大的",
+      "freq": 22
+    },
+    {
+      "word": "dynamic",
+      "meaning": "动态的；有活力的",
+      "freq": 21
+    },
+    {
+      "word": "economy",
+      "meaning": "经济；节约",
+      "freq": 30
+    },
+    {
+      "word": "eliminate",
+      "meaning": "消除；淘汰",
+      "freq": 24
+    },
+    {
+      "word": "emerge",
+      "meaning": "出现；浮现",
+      "freq": 25
+    },
+    {
+      "word": "emphasis",
+      "meaning": "强调；重点",
+      "freq": 24
+    },
+    {
+      "word": "employ",
+      "meaning": "雇佣；使用",
+      "freq": 24
+    },
+    {
+      "word": "enable",
+      "meaning": "使能够；启用",
+      "freq": 26
+    },
+    {
+      "word": "encounter",
+      "meaning": "遇到；邂逅",
+      "freq": 22
+    },
+    {
+      "word": "endeavor",
+      "meaning": "努力；尽力",
+      "freq": 14
+    },
+    {
+      "word": "enhance",
+      "meaning": "提高；增强",
+      "freq": 26
+    },
+    {
+      "word": "enormous",
+      "meaning": "巨大的",
+      "freq": 22
+    },
+    {
+      "word": "ensure",
+      "meaning": "确保；保证",
+      "freq": 26
+    },
+    {
+      "word": "enterprise",
+      "meaning": "企业；事业",
+      "freq": 22
+    },
+    {
+      "word": "enthusiasm",
+      "meaning": "热情；热忱",
+      "freq": 20
+    },
+    {
+      "word": "equivalent",
+      "meaning": "等价的；相等的",
+      "freq": 19
+    },
+    {
+      "word": "essential",
+      "meaning": "必要的；本质的",
+      "freq": 28
+    },
+    {
+      "word": "establish",
+      "meaning": "建立；确立",
+      "freq": 26
+    },
+    {
+      "word": "estate",
+      "meaning": "房地产；庄园",
+      "freq": 18
+    },
+    {
+      "word": "estimate",
+      "meaning": "估计；评估",
+      "freq": 24
+    },
+    {
+      "word": "evaluate",
+      "meaning": "评价；评估",
+      "freq": 26
+    },
+    {
+      "word": "evident",
+      "meaning": "明显的",
+      "freq": 21
+    },
+    {
+      "word": "evolve",
+      "meaning": "进化；演变",
+      "freq": 22
+    },
+    {
+      "word": "exaggerate",
+      "meaning": "夸张",
+      "freq": 14
+    },
+    {
+      "word": "exceed",
+      "meaning": "超过；超越",
+      "freq": 21
+    },
+    {
+      "word": "exclude",
+      "meaning": "排除；排斥",
+      "freq": 19
+    },
+    {
+      "word": "execute",
+      "meaning": "执行；实施",
+      "freq": 20
+    },
+    {
+      "word": "expand",
+      "meaning": "扩展；膨胀",
+      "freq": 24
+    },
+    {
+      "word": "expenditure",
+      "meaning": "支出；花费",
+      "freq": 17
+    },
+    {
+      "word": "explicit",
+      "meaning": "明确的；直白的",
+      "freq": 16
+    },
+    {
+      "word": "exploit",
+      "meaning": "利用；开发；剥削",
+      "freq": 22
+    },
+    {
+      "word": "export",
+      "meaning": "出口；输出",
+      "freq": 21
+    },
+    {
+      "word": "expose",
+      "meaning": "暴露；揭露",
+      "freq": 23
+    },
+    {
+      "word": "extensive",
+      "meaning": "广泛的；大量的",
+      "freq": 22
+    },
+    {
+      "word": "facilitate",
+      "meaning": "促进；帮助",
+      "freq": 19
+    },
+    {
+      "word": "faculty",
+      "meaning": "能力；全体教员；院系",
+      "freq": 16
+    },
+    {
+      "word": "federal",
+      "meaning": "联邦的",
+      "freq": 21
+    },
+    {
+      "word": "fiction",
+      "meaning": "小说；虚构",
+      "freq": 18
+    },
+    {
+      "word": "finance",
+      "meaning": "财政；金融；资助",
+      "freq": 25
+    },
+    {
+      "word": "flexible",
+      "meaning": "灵活的",
+      "freq": 24
+    },
+    {
+      "word": "fluctuate",
+      "meaning": "波动；起伏",
+      "freq": 16
+    },
+    {
+      "word": "focus",
+      "meaning": "焦点；集中",
+      "freq": 30
+    },
+    {
+      "word": "forecast",
+      "meaning": "预测；预报",
+      "freq": 18
+    },
+    {
+      "word": "formal",
+      "meaning": "正式的",
+      "freq": 22
+    },
+    {
+      "word": "format",
+      "meaning": "格式；格式化",
+      "freq": 21
+    },
+    {
+      "word": "formula",
+      "meaning": "公式；配方",
+      "freq": 17
+    },
+    {
+      "word": "frustrate",
+      "meaning": "使沮丧；挫败",
+      "freq": 18
+    },
+    {
+      "word": "fulfill",
+      "meaning": "完成；满足",
+      "freq": 20
+    },
+    {
+      "word": "function",
+      "meaning": "功能；函数；运作",
+      "freq": 28
+    },
+    {
+      "word": "fundamental",
+      "meaning": "基本的；根本的",
+      "freq": 24
+    },
+    {
+      "word": "generate",
+      "meaning": "产生；生成",
+      "freq": 26
+    },
+    {
+      "word": "genius",
+      "meaning": "天才",
+      "freq": 16
+    },
+    {
+      "word": "global",
+      "meaning": "全球的",
+      "freq": 30
+    },
+    {
+      "word": "guarantee",
+      "meaning": "保证；担保",
+      "freq": 22
+    },
+    {
+      "word": "guideline",
+      "meaning": "指导方针；准则",
+      "freq": 20
+    },
+    {
+      "word": "harsh",
+      "meaning": "严酷的；刺耳的",
+      "freq": 16
+    },
+    {
+      "word": "highlight",
+      "meaning": "突出；强调",
+      "freq": 22
+    },
+    {
+      "word": "identical",
+      "meaning": "完全相同的",
+      "freq": 18
+    },
+    {
+      "word": "identify",
+      "meaning": "识别；确认",
+      "freq": 28
+    },
+    {
+      "word": "ignorance",
+      "meaning": "无知",
+      "freq": 17
+    },
+    {
+      "word": "illustrate",
+      "meaning": "说明；举例说明",
+      "freq": 22
+    },
+    {
+      "word": "immigrant",
+      "meaning": "移民（入境）",
+      "freq": 21
+    },
+    {
+      "word": "impact",
+      "meaning": "影响；冲击",
+      "freq": 30
+    },
+    {
+      "word": "implement",
+      "meaning": "实施；执行",
+      "freq": 25
+    },
+    {
+      "word": "imply",
+      "meaning": "暗示；意味着",
+      "freq": 23
+    },
+    {
+      "word": "impose",
+      "meaning": "强加；施加",
+      "freq": 20
+    },
+    {
+      "word": "incentive",
+      "meaning": "激励；动机",
+      "freq": 19
+    },
+    {
+      "word": "independent",
+      "meaning": "独立的；自主的",
+      "freq": 26
+    },
+    {
+      "word": "indicate",
+      "meaning": "表明；指示",
+      "freq": 28
+    },
+    {
+      "word": "individual",
+      "meaning": "个人的；个体",
+      "freq": 28
+    },
+    {
+      "word": "inevitable",
+      "meaning": "不可避免的",
+      "freq": 20
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "freq": 24
+    },
+    {
+      "word": "inherent",
+      "meaning": "固有的；内在的",
+      "freq": 16
+    },
+    {
+      "word": "initiative",
+      "meaning": "主动性；倡议",
+      "freq": 21
+    },
+    {
+      "word": "innovation",
+      "meaning": "创新",
+      "freq": 26
+    },
+    {
+      "word": "institution",
+      "meaning": "机构；制度",
+      "freq": 24
+    },
+    {
+      "word": "integrate",
+      "meaning": "整合；融合",
+      "freq": 23
+    },
+    {
+      "word": "intellectual",
+      "meaning": "智力的；知识的",
+      "freq": 22
+    },
+    {
+      "word": "intelligence",
+      "meaning": "智力；情报",
+      "freq": 24
+    },
+    {
+      "word": "intense",
+      "meaning": "强烈的；紧张的",
+      "freq": 22
+    },
+    {
+      "word": "interact",
+      "meaning": "互动；相互作用",
+      "freq": 22
+    },
+    {
+      "word": "interpret",
+      "meaning": "解释；翻译",
+      "freq": 21
+    },
+    {
+      "word": "investigate",
+      "meaning": "调查",
+      "freq": 22
+    },
+    {
+      "word": "investment",
+      "meaning": "投资",
+      "freq": 25
+    },
+    {
+      "word": "involve",
+      "meaning": "涉及；包含",
+      "freq": 28
+    },
+    {
+      "word": "isolate",
+      "meaning": "隔离；孤立",
+      "freq": 19
+    },
+    {
+      "word": "issue",
+      "meaning": "问题；议题；发行",
+      "freq": 30
+    },
+    {
+      "word": "justify",
+      "meaning": "证明...合理",
+      "freq": 21
+    },
+    {
+      "word": "keen",
+      "meaning": "热衷的；敏锐的",
+      "freq": 17
+    },
+    {
+      "word": "label",
+      "meaning": "标签；标注",
+      "freq": 20
+    },
+    {
+      "word": "landmark",
+      "meaning": "地标；里程碑",
+      "freq": 15
+    },
+    {
+      "word": "launch",
+      "meaning": "发射；发起；发布",
+      "freq": 23
+    },
+    {
+      "word": "legislation",
+      "meaning": "立法；法规",
+      "freq": 21
+    },
+    {
+      "word": "liberal",
+      "meaning": "自由主义的；开明的",
+      "freq": 19
+    },
+    {
+      "word": "literature",
+      "meaning": "文学",
+      "freq": 22
+    },
+    {
+      "word": "maintain",
+      "meaning": "维持；保持",
+      "freq": 26
+    },
+    {
+      "word": "manifest",
+      "meaning": "表明；显然的",
+      "freq": 15
+    },
+    {
+      "word": "manipulate",
+      "meaning": "操纵；控制",
+      "freq": 20
+    },
+    {
+      "word": "mechanism",
+      "meaning": "机制",
+      "freq": 24
+    },
+    {
+      "word": "medium",
+      "meaning": "中等的；媒介",
+      "freq": 22
+    },
+    {
+      "word": "mental",
+      "meaning": "精神的；心理的",
+      "freq": 25
+    },
+    {
+      "word": "merely",
+      "meaning": "仅仅；只不过",
+      "freq": 21
+    },
+    {
+      "word": "migrate",
+      "meaning": "迁移；移居",
+      "freq": 18
+    },
+    {
+      "word": "military",
+      "meaning": "军事的",
+      "freq": 20
+    },
+    {
+      "word": "minority",
+      "meaning": "少数；少数民族",
+      "freq": 21
+    },
+    {
+      "word": "modify",
+      "meaning": "修改；调整",
+      "freq": 21
+    },
+    {
+      "word": "monitor",
+      "meaning": "监控；监视",
+      "freq": 23
+    },
+    {
+      "word": "motivate",
+      "meaning": "激励；激发",
+      "freq": 22
+    },
+    {
+      "word": "negative",
+      "meaning": "消极的；否定的",
+      "freq": 26
+    },
+    {
+      "word": "negotiate",
+      "meaning": "谈判；协商",
+      "freq": 21
+    },
+    {
+      "word": "network",
+      "meaning": "网络",
+      "freq": 28
+    },
+    {
+      "word": "neutral",
+      "meaning": "中立的；中性的",
+      "freq": 17
+    },
+    {
+      "word": "nevertheless",
+      "meaning": "然而；尽管如此",
+      "freq": 22
+    },
+    {
+      "word": "norm",
+      "meaning": "规范；标准",
+      "freq": 19
+    },
+    {
+      "word": "notion",
+      "meaning": "概念；观念",
+      "freq": 21
+    },
+    {
+      "word": "objective",
+      "meaning": "客观的；目标",
+      "freq": 24
+    },
+    {
+      "word": "obligation",
+      "meaning": "义务；责任",
+      "freq": 19
+    },
+    {
+      "word": "obtain",
+      "meaning": "获得；得到",
+      "freq": 24
+    },
+    {
+      "word": "obvious",
+      "meaning": "明显的",
+      "freq": 24
+    },
+    {
+      "word": "offense",
+      "meaning": "冒犯；违法行为",
+      "freq": 18
+    },
+    {
+      "word": "opponent",
+      "meaning": "对手；反对者",
+      "freq": 21
+    },
+    {
+      "word": "opportunity",
+      "meaning": "机会",
+      "freq": 30
+    },
+    {
+      "word": "optimistic",
+      "meaning": "乐观的",
+      "freq": 20
+    },
+    {
+      "word": "option",
+      "meaning": "选择；选项",
+      "freq": 26
+    },
+    {
+      "word": "organ",
+      "meaning": "器官；机构",
+      "freq": 17
+    },
+    {
+      "word": "organization",
+      "meaning": "组织；机构",
+      "freq": 28
+    },
+    {
+      "word": "orientation",
+      "meaning": "方向；定位",
+      "freq": 16
+    },
+    {
+      "word": "original",
+      "meaning": "原始的；独创的",
+      "freq": 24
+    },
+    {
+      "word": "output",
+      "meaning": "产出；输出",
+      "freq": 21
+    },
+    {
+      "word": "overcome",
+      "meaning": "克服",
+      "freq": 22
+    },
+    {
+      "word": "overlook",
+      "meaning": "忽视；俯瞰",
+      "freq": 17
+    },
+    {
+      "word": "overseas",
+      "meaning": "海外的",
+      "freq": 22
+    },
+    {
+      "word": "panel",
+      "meaning": "面板；专家组",
+      "freq": 18
+    },
+    {
+      "word": "paradox",
+      "meaning": "悖论；矛盾",
+      "freq": 15
+    },
+    {
+      "word": "participate",
+      "meaning": "参与",
+      "freq": 26
+    },
+    {
+      "word": "particular",
+      "meaning": "特别的；特定的",
+      "freq": 26
+    },
+    {
+      "word": "passion",
+      "meaning": "热情；激情",
+      "freq": 22
+    },
+    {
+      "word": "perceive",
+      "meaning": "感知；察觉",
+      "freq": 23
+    },
+    {
+      "word": "performance",
+      "meaning": "表现；性能",
+      "freq": 28
+    },
+    {
+      "word": "permanent",
+      "meaning": "永久的",
+      "freq": 21
+    },
+    {
+      "word": "persist",
+      "meaning": "坚持；持续",
+      "freq": 20
+    },
+    {
+      "word": "perspective",
+      "meaning": "观点；视角",
+      "freq": 26
+    },
+    {
+      "word": "phenomenon",
+      "meaning": "现象",
+      "freq": 24
+    },
+    {
+      "word": "philosophy",
+      "meaning": "哲学",
+      "freq": 20
+    },
+    {
+      "word": "policy",
+      "meaning": "政策；方针",
+      "freq": 28
+    },
+    {
+      "word": "pollution",
+      "meaning": "污染",
+      "freq": 24
+    },
+    {
+      "word": "positive",
+      "meaning": "积极的；正面的",
+      "freq": 26
+    },
+    {
+      "word": "potential",
+      "meaning": "潜在的；潜力",
+      "freq": 28
+    },
+    {
+      "word": "poverty",
+      "meaning": "贫穷",
+      "freq": 21
+    },
+    {
+      "word": "predict",
+      "meaning": "预测",
+      "freq": 24
+    },
+    {
+      "word": "prejudice",
+      "meaning": "偏见",
+      "freq": 18
+    },
+    {
+      "word": "preserve",
+      "meaning": "保存；保护",
+      "freq": 24
+    },
+    {
+      "word": "pressure",
+      "meaning": "压力",
+      "freq": 28
+    },
+    {
+      "word": "presume",
+      "meaning": "假定；推测",
+      "freq": 14
+    },
+    {
+      "word": "prevail",
+      "meaning": "盛行；战胜",
+      "freq": 17
+    },
+    {
+      "word": "previous",
+      "meaning": "之前的",
+      "freq": 26
+    },
+    {
+      "word": "primary",
+      "meaning": "主要的；初级的",
+      "freq": 24
+    },
+    {
+      "word": "principle",
+      "meaning": "原则；原理",
+      "freq": 25
+    },
+    {
+      "word": "priority",
+      "meaning": "优先；优先级",
+      "freq": 23
+    },
+    {
+      "word": "procedure",
+      "meaning": "程序；步骤",
+      "freq": 21
+    },
+    {
+      "word": "profession",
+      "meaning": "职业；专业",
+      "freq": 20
+    },
+    {
+      "word": "profound",
+      "meaning": "深刻的；深远的",
+      "freq": 19
+    },
+    {
+      "word": "promote",
+      "meaning": "促进；提升；推广",
+      "freq": 27
+    },
+    {
+      "word": "proportion",
+      "meaning": "比例；部分",
+      "freq": 21
+    },
+    {
+      "word": "prospect",
+      "meaning": "前景；可能性",
+      "freq": 22
+    },
+    {
+      "word": "protein",
+      "meaning": "蛋白质",
+      "freq": 18
+    },
+    {
+      "word": "psychology",
+      "meaning": "心理学",
+      "freq": 22
+    },
+    {
+      "word": "publish",
+      "meaning": "出版；发布",
+      "freq": 22
+    },
+    {
+      "word": "purchase",
+      "meaning": "购买",
+      "freq": 21
+    },
+    {
+      "word": "pursue",
+      "meaning": "追求；从事",
+      "freq": 24
+    },
+    {
+      "word": "qualification",
+      "meaning": "资格；资质",
+      "freq": 19
+    },
+    {
+      "word": "random",
+      "meaning": "随机的",
+      "freq": 21
+    },
+    {
+      "word": "range",
+      "meaning": "范围；山脉",
+      "freq": 26
+    },
+    {
+      "word": "rational",
+      "meaning": "理性的；合理的",
+      "freq": 19
+    },
+    {
+      "word": "recognize",
+      "meaning": "认出；承认",
+      "freq": 28
+    },
+    {
+      "word": "recommend",
+      "meaning": "推荐；建议",
+      "freq": 22
+    },
+    {
+      "word": "recover",
+      "meaning": "恢复；康复",
+      "freq": 22
+    },
+    {
+      "word": "reflect",
+      "meaning": "反映；反思",
+      "freq": 27
+    },
+    {
+      "word": "regulate",
+      "meaning": "调节；管理",
+      "freq": 22
+    },
+    {
+      "word": "reinforce",
+      "meaning": "加强；强化",
+      "freq": 21
+    },
+    {
+      "word": "release",
+      "meaning": "释放；发布",
+      "freq": 24
+    },
+    {
+      "word": "relevant",
+      "meaning": "相关的",
+      "freq": 26
+    },
+    {
+      "word": "reliable",
+      "meaning": "可靠的",
+      "freq": 22
+    },
+    {
+      "word": "reluctant",
+      "meaning": "不情愿的",
+      "freq": 18
+    },
+    {
+      "word": "rely",
+      "meaning": "依赖；依靠",
+      "freq": 24
+    },
+    {
+      "word": "represent",
+      "meaning": "代表；表示",
+      "freq": 26
+    },
+    {
+      "word": "reputation",
+      "meaning": "声誉；名望",
+      "freq": 21
+    },
+    {
+      "word": "require",
+      "meaning": "要求；需要",
+      "freq": 30
+    },
+    {
+      "word": "resource",
+      "meaning": "资源",
+      "freq": 28
+    },
+    {
+      "word": "respond",
+      "meaning": "回应；反应",
+      "freq": 26
+    },
+    {
+      "word": "responsible",
+      "meaning": "有责任的；负责的",
+      "freq": 28
+    },
+    {
+      "word": "restore",
+      "meaning": "恢复；修复",
+      "freq": 20
+    },
+    {
+      "word": "restrict",
+      "meaning": "限制；约束",
+      "freq": 22
+    },
+    {
+      "word": "reveal",
+      "meaning": "揭示；透露",
+      "freq": 24
+    },
+    {
+      "word": "revenue",
+      "meaning": "收入；税收",
+      "freq": 23
+    },
+    {
+      "word": "revolution",
+      "meaning": "革命；变革",
+      "freq": 21
+    },
+    {
+      "word": "rigid",
+      "meaning": "僵硬的；严格的",
+      "freq": 16
+    },
+    {
+      "word": "rival",
+      "meaning": "竞争对手",
+      "freq": 19
+    },
+    {
+      "word": "sacrifice",
+      "meaning": "牺牲；奉献",
+      "freq": 20
+    },
+    {
+      "word": "scale",
+      "meaning": "规模；比例；刻度",
+      "freq": 24
+    },
+    {
+      "word": "scheme",
+      "meaning": "计划；方案",
+      "freq": 19
+    },
+    {
+      "word": "security",
+      "meaning": "安全；保安",
+      "freq": 28
+    },
+    {
+      "word": "sensitive",
+      "meaning": "敏感的",
+      "freq": 23
+    },
+    {
+      "word": "sequence",
+      "meaning": "顺序；序列",
+      "freq": 20
+    },
+    {
+      "word": "significant",
+      "meaning": "重要的；显著的",
+      "freq": 30
+    },
+    {
+      "word": "simulate",
+      "meaning": "模拟；模仿",
+      "freq": 17
+    },
+    {
+      "word": "skeptical",
+      "meaning": "怀疑的",
+      "freq": 16
+    },
+    {
+      "word": "slight",
+      "meaning": "轻微的；微小的",
+      "freq": 20
+    },
+    {
+      "word": "sole",
+      "meaning": "唯一的；单独的",
+      "freq": 18
+    },
+    {
+      "word": "sophisticated",
+      "meaning": "复杂的；精密的；世故的",
+      "freq": 22
+    },
+    {
+      "word": "specific",
+      "meaning": "具体的；特定的",
+      "freq": 28
+    },
+    {
+      "word": "stable",
+      "meaning": "稳定的",
+      "freq": 24
+    },
+    {
+      "word": "statistics",
+      "meaning": "统计数据；统计学",
+      "freq": 23
+    },
+    {
+      "word": "status",
+      "meaning": "地位；状态",
+      "freq": 28
+    },
+    {
+      "word": "stimulate",
+      "meaning": "刺激；激发",
+      "freq": 22
+    },
+    {
+      "word": "strategy",
+      "meaning": "策略",
+      "freq": 28
+    },
+    {
+      "word": "stress",
+      "meaning": "压力；强调",
+      "freq": 28
+    },
+    {
+      "word": "structure",
+      "meaning": "结构",
+      "freq": 26
+    },
+    {
+      "word": "submit",
+      "meaning": "提交；服从",
+      "freq": 22
+    },
+    {
+      "word": "substantial",
+      "meaning": "大量的；实质的",
+      "freq": 21
+    },
+    {
+      "word": "sufficient",
+      "meaning": "充足的；足够的",
+      "freq": 24
+    },
+    {
+      "word": "survey",
+      "meaning": "调查；勘测",
+      "freq": 22
+    },
+    {
+      "word": "survive",
+      "meaning": "幸存；生存",
+      "freq": 24
+    },
+    {
+      "word": "sustainable",
+      "meaning": "可持续的",
+      "freq": 25
+    },
+    {
+      "word": "symbol",
+      "meaning": "符号；象征",
+      "freq": 21
+    },
+    {
+      "word": "target",
+      "meaning": "目标；靶子",
+      "freq": 26
+    },
+    {
+      "word": "technique",
+      "meaning": "技术；技巧",
+      "freq": 25
+    },
+    {
+      "word": "technology",
+      "meaning": "技术；科技",
+      "freq": 30
+    },
+    {
+      "word": "temporary",
+      "meaning": "临时的",
+      "freq": 21
+    },
+    {
+      "word": "tendency",
+      "meaning": "趋势；倾向",
+      "freq": 23
+    },
+    {
+      "word": "tension",
+      "meaning": "紧张；张力",
+      "freq": 21
+    },
+    {
+      "word": "threaten",
+      "meaning": "威胁",
+      "freq": 22
+    },
+    {
+      "word": "tolerate",
+      "meaning": "容忍",
+      "freq": 19
+    },
+    {
+      "word": "trait",
+      "meaning": "特征；特质",
+      "freq": 18
+    },
+    {
+      "word": "transfer",
+      "meaning": "转移；转让",
+      "freq": 22
+    },
+    {
+      "word": "transform",
+      "meaning": "改变；转变",
+      "freq": 24
+    },
+    {
+      "word": "trend",
+      "meaning": "趋势；潮流",
+      "freq": 28
+    },
+    {
+      "word": "trigger",
+      "meaning": "触发；引发",
+      "freq": 20
+    },
+    {
+      "word": "ultimate",
+      "meaning": "最终的；根本的",
+      "freq": 22
+    },
+    {
+      "word": "undergo",
+      "meaning": "经历；承受",
+      "freq": 20
+    },
+    {
+      "word": "undermine",
+      "meaning": "削弱；破坏",
+      "freq": 19
+    },
+    {
+      "word": "unique",
+      "meaning": "独特的",
+      "freq": 26
+    },
+    {
+      "word": "universal",
+      "meaning": "普遍的；通用的",
+      "freq": 22
+    },
+    {
+      "word": "urban",
+      "meaning": "城市的",
+      "freq": 24
+    },
+    {
+      "word": "utilize",
+      "meaning": "利用；使用",
+      "freq": 21
+    },
+    {
+      "word": "valid",
+      "meaning": "有效的；合理的",
+      "freq": 20
+    },
+    {
+      "word": "variety",
+      "meaning": "多样性；种类",
+      "freq": 26
+    },
+    {
+      "word": "version",
+      "meaning": "版本",
+      "freq": 22
+    },
+    {
+      "word": "via",
+      "meaning": "通过；经过",
+      "freq": 26
+    },
+    {
+      "word": "violate",
+      "meaning": "违反；侵犯",
+      "freq": 21
+    },
+    {
+      "word": "virtual",
+      "meaning": "虚拟的；事实上的",
+      "freq": 23
+    },
+    {
+      "word": "virtue",
+      "meaning": "美德；优点",
+      "freq": 19
+    },
+    {
+      "word": "visible",
+      "meaning": "可见的；明显的",
+      "freq": 21
+    },
+    {
+      "word": "vision",
+      "meaning": "愿景；视力",
+      "freq": 23
+    },
+    {
+      "word": "vital",
+      "meaning": "至关重要的；生命的",
+      "freq": 22
+    },
+    {
+      "word": "voluntary",
+      "meaning": "自愿的",
+      "freq": 18
+    },
+    {
+      "word": "vulnerable",
+      "meaning": "脆弱的；易受伤害的",
+      "freq": 23
+    },
+    {
+      "word": "welfare",
+      "meaning": "福利；幸福",
+      "freq": 21
+    },
+    {
+      "word": "widespread",
+      "meaning": "广泛的；普遍的",
+      "freq": 22
+    },
+    {
+      "word": "witness",
+      "meaning": "目击；证人",
+      "freq": 21
+    },
+    {
+      "word": "yield",
+      "meaning": "产出；屈服",
+      "freq": 19
+    },
+    {
+      "word": "absorb",
+      "meaning": "吸收；吸引",
+      "freq": 12
+    },
+    {
+      "word": "abundant",
+      "meaning": "丰富的；充裕的",
+      "freq": 11
+    },
+    {
+      "word": "abuse",
+      "meaning": "滥用；虐待",
+      "freq": 12
+    },
+    {
+      "word": "accelerate",
+      "meaning": "加速",
+      "freq": 11
+    },
+    {
+      "word": "acquaint",
+      "meaning": "使熟悉",
+      "freq": 10
+    },
+    {
+      "word": "adverse",
+      "meaning": "不利的；相反的",
+      "freq": 10
+    },
+    {
+      "word": "affiliate",
+      "meaning": "附属机构；使隶属",
+      "freq": 10
+    },
+    {
+      "word": "aggravate",
+      "meaning": "加剧；激怒",
+      "freq": 11
+    },
+    {
+      "word": "alleviate",
+      "meaning": "减轻；缓解",
+      "freq": 10
+    },
+    {
+      "word": "amend",
+      "meaning": "修改；修订",
+      "freq": 10
+    },
+    {
+      "word": "anonymous",
+      "meaning": "匿名的",
+      "freq": 13
+    },
+    {
+      "word": "apparatus",
+      "meaning": "仪器；装置",
+      "freq": 11
+    },
+    {
+      "word": "applaud",
+      "meaning": "鼓掌；称赞",
+      "freq": 10
+    },
+    {
+      "word": "arbitrary",
+      "meaning": "任意的；专断的",
+      "freq": 10
+    },
+    {
+      "word": "assert",
+      "meaning": "断言；主张",
+      "freq": 12
+    },
+    {
+      "word": "assimilate",
+      "meaning": "同化；吸收",
+      "freq": 10
+    },
+    {
+      "word": "authorize",
+      "meaning": "授权；批准",
+      "freq": 11
+    },
+    {
+      "word": "autonomy",
+      "meaning": "自治；自主",
+      "freq": 10
+    },
+    {
+      "word": "bankruptcy",
+      "meaning": "破产",
+      "freq": 12
+    },
+    {
+      "word": "bargain",
+      "meaning": "便宜货；讨价还价",
+      "freq": 13
+    },
+    {
+      "word": "biography",
+      "meaning": "传记",
+      "freq": 10
+    },
+    {
+      "word": "bizarre",
+      "meaning": "奇怪的；异乎寻常的",
+      "freq": 12
+    },
+    {
+      "word": "boom",
+      "meaning": "繁荣；激增",
+      "freq": 12
+    },
+    {
+      "word": "boycott",
+      "meaning": "抵制",
+      "freq": 10
+    },
+    {
+      "word": "breach",
+      "meaning": "违反；破坏",
+      "freq": 10
+    },
+    {
+      "word": "bureaucracy",
+      "meaning": "官僚机构",
+      "freq": 11
+    },
+    {
+      "word": "capture",
+      "meaning": "捕获；俘获",
+      "freq": 12
+    },
+    {
+      "word": "casualty",
+      "meaning": "伤亡；受害者",
+      "freq": 10
+    },
+    {
+      "word": "catalogue",
+      "meaning": "目录",
+      "freq": 11
+    },
+    {
+      "word": "chronic",
+      "meaning": "慢性的；长期的",
+      "freq": 10
+    },
+    {
+      "word": "circulate",
+      "meaning": "流通；循环",
+      "freq": 11
+    },
+    {
+      "word": "coincide",
+      "meaning": "同时发生；巧合",
+      "freq": 10
+    },
+    {
+      "word": "complement",
+      "meaning": "补充；互补",
+      "freq": 12
+    },
+    {
+      "word": "comply",
+      "meaning": "遵守；服从",
+      "freq": 12
+    },
+    {
+      "word": "conceive",
+      "meaning": "构想；怀孕",
+      "freq": 11
+    },
+    {
+      "word": "condemn",
+      "meaning": "谴责；判刑",
+      "freq": 13
+    },
+    {
+      "word": "confine",
+      "meaning": "限制；监禁",
+      "freq": 12
+    },
+    {
+      "word": "conform",
+      "meaning": "遵守；符合",
+      "freq": 11
+    },
+    {
+      "word": "conscience",
+      "meaning": "良心",
+      "freq": 12
+    },
+    {
+      "word": "consolidate",
+      "meaning": "巩固；合并",
+      "freq": 11
+    },
+    {
+      "word": "contemplate",
+      "meaning": "沉思；考虑",
+      "freq": 10
+    },
+    {
+      "word": "contempt",
+      "meaning": "蔑视；轻视",
+      "freq": 12
+    },
+    {
+      "word": "contradict",
+      "meaning": "矛盾；反驳",
+      "freq": 13
+    },
+    {
+      "word": "convert",
+      "meaning": "转换；转变",
+      "freq": 12
+    },
+    {
+      "word": "counterpart",
+      "meaning": "对应的人或物",
+      "freq": 12
+    },
+    {
+      "word": "crude",
+      "meaning": "粗制的；粗鲁的",
+      "freq": 11
+    },
+    {
+      "word": "cumulative",
+      "meaning": "累积的",
+      "freq": 10
+    },
+    {
+      "word": "currency",
+      "meaning": "货币；通货",
+      "freq": 13
+    },
+    {
+      "word": "deceive",
+      "meaning": "欺骗",
+      "freq": 12
+    },
+    {
+      "word": "decisive",
+      "meaning": "决定性的；果断的",
+      "freq": 10
+    },
+    {
+      "word": "decorate",
+      "meaning": "装饰",
+      "freq": 11
+    },
+    {
+      "word": "deficiency",
+      "meaning": "缺乏；不足",
+      "freq": 10
+    },
+    {
+      "word": "degrade",
+      "meaning": "降级；退化",
+      "freq": 10
+    },
+    {
+      "word": "deliberate",
+      "meaning": "故意的；深思熟虑的",
+      "freq": 11
+    },
+    {
+      "word": "democracy",
+      "meaning": "民主",
+      "freq": 13
+    },
+    {
+      "word": "deprive",
+      "meaning": "剥夺",
+      "freq": 12
+    },
+    {
+      "word": "descend",
+      "meaning": "下降；来自",
+      "freq": 11
+    },
+    {
+      "word": "deteriorate",
+      "meaning": "恶化",
+      "freq": 10
+    },
+    {
+      "word": "diagnose",
+      "meaning": "诊断",
+      "freq": 11
+    },
+    {
+      "word": "diffuse",
+      "meaning": "扩散；传播",
+      "freq": 10
+    },
+    {
+      "word": "dignity",
+      "meaning": "尊严",
+      "freq": 12
+    },
+    {
+      "word": "diligent",
+      "meaning": "勤奋的",
+      "freq": 10
+    },
+    {
+      "word": "diplomatic",
+      "meaning": "外交的；圆滑的",
+      "freq": 12
+    },
+    {
+      "word": "discharge",
+      "meaning": "释放；排放",
+      "freq": 11
+    },
+    {
+      "word": "discipline",
+      "meaning": "纪律；学科",
+      "freq": 13
+    },
+    {
+      "word": "disclose",
+      "meaning": "揭露；公开",
+      "freq": 11
+    },
+    {
+      "word": "discourse",
+      "meaning": "话语；论述",
+      "freq": 11
+    },
+    {
+      "word": "distort",
+      "meaning": "扭曲；歪曲",
+      "freq": 12
+    },
+    {
+      "word": "diverse",
+      "meaning": "多样的",
+      "freq": 13
+    },
+    {
+      "word": "domain",
+      "meaning": "领域；域名",
+      "freq": 12
+    },
+    {
+      "word": "donation",
+      "meaning": "捐赠",
+      "freq": 11
+    },
+    {
+      "word": "durable",
+      "meaning": "耐用的；持久的",
+      "freq": 10
+    },
+    {
+      "word": "eccentric",
+      "meaning": "古怪的",
+      "freq": 10
+    },
+    {
+      "word": "eclipse",
+      "meaning": "日食；使失色",
+      "freq": 10
+    },
+    {
+      "word": "embarrass",
+      "meaning": "使尴尬",
+      "freq": 12
+    },
+    {
+      "word": "embrace",
+      "meaning": "拥抱；包含；欣然接受",
+      "freq": 13
+    },
+    {
+      "word": "emission",
+      "meaning": "排放；散发",
+      "freq": 12
+    },
+    {
+      "word": "empirical",
+      "meaning": "经验主义的；实证的",
+      "freq": 10
+    },
+    {
+      "word": "enforce",
+      "meaning": "执行；强制",
+      "freq": 13
+    },
+    {
+      "word": "enlighten",
+      "meaning": "启发；开导",
+      "freq": 10
+    },
+    {
+      "word": "equip",
+      "meaning": "装备；配备",
+      "freq": 12
+    },
+    {
+      "word": "erode",
+      "meaning": "侵蚀",
+      "freq": 10
+    },
+    {
+      "word": "essence",
+      "meaning": "本质；精髓",
+      "freq": 12
+    },
+    {
+      "word": "eternal",
+      "meaning": "永恒的",
+      "freq": 10
+    },
+    {
+      "word": "ethnic",
+      "meaning": "民族的；种族的",
+      "freq": 11
+    },
+    {
+      "word": "exempt",
+      "meaning": "免除；豁免",
+      "freq": 10
+    },
+    {
+      "word": "expel",
+      "meaning": "驱逐；开除",
+      "freq": 10
+    },
+    {
+      "word": "expire",
+      "meaning": "到期；过期",
+      "freq": 10
+    },
+    {
+      "word": "famine",
+      "meaning": "饥荒",
+      "freq": 10
+    },
+    {
+      "word": "fascinating",
+      "meaning": "迷人的；极好的",
+      "freq": 12
+    },
+    {
+      "word": "feasible",
+      "meaning": "可行的",
+      "freq": 10
+    },
+    {
+      "word": "feminine",
+      "meaning": "女性的",
+      "freq": 10
+    },
+    {
+      "word": "flourish",
+      "meaning": "繁荣；兴旺",
+      "freq": 11
+    },
+    {
+      "word": "fragile",
+      "meaning": "脆弱的；易碎的",
+      "freq": 11
+    },
+    {
+      "word": "friction",
+      "meaning": "摩擦；冲突",
+      "freq": 10
+    },
+    {
+      "word": "gene",
+      "meaning": "基因",
+      "freq": 13
+    },
+    {
+      "word": "geology",
+      "meaning": "地质学",
+      "freq": 10
+    },
+    {
+      "word": "gloomy",
+      "meaning": "阴暗的；沮丧的",
+      "freq": 12
+    },
+    {
+      "word": "grace",
+      "meaning": "优雅；恩典",
+      "freq": 12
+    },
+    {
+      "word": "habitat",
+      "meaning": "栖息地",
+      "freq": 11
+    },
+    {
+      "word": "hamper",
+      "meaning": "阻碍；妨碍",
+      "freq": 10
+    },
+    {
+      "word": "heritage",
+      "meaning": "遗产；传统",
+      "freq": 12
+    },
+    {
+      "word": "hierarchy",
+      "meaning": "等级制度；层级",
+      "freq": 11
+    },
+    {
+      "word": "hinder",
+      "meaning": "阻碍",
+      "freq": 12
+    },
+    {
+      "word": "homogeneous",
+      "meaning": "同质的；均匀的",
+      "freq": 10
+    },
+    {
+      "word": "horizon",
+      "meaning": "地平线；眼界",
+      "freq": 13
+    },
+    {
+      "word": "hospitality",
+      "meaning": "好客；款待",
+      "freq": 11
+    },
+    {
+      "word": "hostile",
+      "meaning": "敌对的",
+      "freq": 12
+    },
+    {
+      "word": "hypothesis",
+      "meaning": "假设；假说",
+      "freq": 11
+    },
+    {
+      "word": "ideology",
+      "meaning": "意识形态",
+      "freq": 11
+    },
+    {
+      "word": "illusion",
+      "meaning": "幻觉；错觉",
+      "freq": 10
+    },
+    {
+      "word": "immune",
+      "meaning": "免疫的；不受影响的",
+      "freq": 12
+    },
+    {
+      "word": "impetus",
+      "meaning": "推动力；促进",
+      "freq": 10
+    },
+    {
+      "word": "indignant",
+      "meaning": "愤慨的",
+      "freq": 10
+    },
+    {
+      "word": "indispensable",
+      "meaning": "不可或缺的",
+      "freq": 12
+    },
+    {
+      "word": "inflation",
+      "meaning": "通货膨胀",
+      "freq": 13
+    },
+    {
+      "word": "inhabit",
+      "meaning": "居住",
+      "freq": 12
+    },
+    {
+      "word": "inherit",
+      "meaning": "继承",
+      "freq": 12
+    },
+    {
+      "word": "insight",
+      "meaning": "洞察力；见解",
+      "freq": 13
+    },
+    {
+      "word": "integrity",
+      "meaning": "正直；完整",
+      "freq": 11
+    },
+    {
+      "word": "interfere",
+      "meaning": "干涉；干扰",
+      "freq": 13
+    },
+    {
+      "word": "interior",
+      "meaning": "内部的",
+      "freq": 11
+    },
+    {
+      "word": "internal",
+      "meaning": "内部的",
+      "freq": 12
+    },
+    {
+      "word": "intervene",
+      "meaning": "干预；介入",
+      "freq": 11
+    },
+    {
+      "word": "intrinsic",
+      "meaning": "内在的；固有的",
+      "freq": 10
+    },
+    {
+      "word": "invariably",
+      "meaning": "始终如一地",
+      "freq": 12
+    },
+    {
+      "word": "judicial",
+      "meaning": "司法的；法官的",
+      "freq": 10
+    },
+    {
+      "word": "jurisdiction",
+      "meaning": "管辖权；司法权",
+      "freq": 10
+    },
+    {
+      "word": "laboratory",
+      "meaning": "实验室",
+      "freq": 12
+    },
+    {
+      "word": "legislature",
+      "meaning": "立法机关",
+      "freq": 10
+    },
+    {
+      "word": "liable",
+      "meaning": "有责任的；有...倾向的",
+      "freq": 10
+    },
+    {
+      "word": "likewise",
+      "meaning": "同样地",
+      "freq": 13
+    },
+    {
+      "word": "linger",
+      "meaning": "徘徊；逗留",
+      "freq": 11
+    },
+    {
+      "word": "literacy",
+      "meaning": "读写能力；文化水平",
+      "freq": 10
+    },
+    {
+      "word": "magnificent",
+      "meaning": "壮丽的；宏伟的",
+      "freq": 11
+    },
+    {
+      "word": "mammal",
+      "meaning": "哺乳动物",
+      "freq": 10
+    },
+    {
+      "word": "manufacture",
+      "meaning": "制造；生产",
+      "freq": 13
+    },
+    {
+      "word": "margin",
+      "meaning": "边缘；利润；保证金",
+      "freq": 12
+    },
+    {
+      "word": "marine",
+      "meaning": "海洋的",
+      "freq": 12
+    },
+    {
+      "word": "masculine",
+      "meaning": "男性的",
+      "freq": 10
+    },
+    {
+      "word": "mature",
+      "meaning": "成熟的",
+      "freq": 13
+    },
+    {
+      "word": "maximize",
+      "meaning": "最大化",
+      "freq": 11
+    },
+    {
+      "word": "mercy",
+      "meaning": "仁慈；怜悯",
+      "freq": 11
+    },
+    {
+      "word": "molecule",
+      "meaning": "分子",
+      "freq": 10
+    },
+    {
+      "word": "monopoly",
+      "meaning": "垄断",
+      "freq": 10
+    },
+    {
+      "word": "morality",
+      "meaning": "道德",
+      "freq": 12
+    },
+    {
+      "word": "narrative",
+      "meaning": "叙述；故事",
+      "freq": 12
+    },
+    {
+      "word": "nasty",
+      "meaning": "肮脏的；令人不快的",
+      "freq": 11
+    },
+    {
+      "word": "neglect",
+      "meaning": "忽视；疏忽",
+      "freq": 13
+    },
+    {
+      "word": "nominate",
+      "meaning": "提名",
+      "freq": 11
+    },
+    {
+      "word": "notable",
+      "meaning": "显著的；著名的",
+      "freq": 12
+    },
+    {
+      "word": "nurture",
+      "meaning": "培育；培养",
+      "freq": 10
+    },
+    {
+      "word": "nutrition",
+      "meaning": "营养",
+      "freq": 12
+    },
+    {
+      "word": "oblige",
+      "meaning": "迫使；感激",
+      "freq": 11
+    },
+    {
+      "word": "offspring",
+      "meaning": "后代；子孙",
+      "freq": 10
+    },
+    {
+      "word": "oppress",
+      "meaning": "压迫",
+      "freq": 10
+    },
+    {
+      "word": "orient",
+      "meaning": "使适应；东方",
+      "freq": 11
+    },
+    {
+      "word": "orthodox",
+      "meaning": "正统的；传统的",
+      "freq": 10
+    },
+    {
+      "word": "parliament",
+      "meaning": "议会；国会",
+      "freq": 12
+    },
+    {
+      "word": "patent",
+      "meaning": "专利",
+      "freq": 11
+    },
+    {
+      "word": "patriotic",
+      "meaning": "爱国的",
+      "freq": 10
+    },
+    {
+      "word": "peculiar",
+      "meaning": "奇怪的；独特的",
+      "freq": 11
+    },
+    {
+      "word": "penetrate",
+      "meaning": "穿透；渗透",
+      "freq": 10
+    },
+    {
+      "word": "pension",
+      "meaning": "养老金；退休金",
+      "freq": 12
+    },
+    {
+      "word": "periodical",
+      "meaning": "期刊；定期的",
+      "freq": 10
+    },
+    {
+      "word": "persevere",
+      "meaning": "坚持；不屈不挠",
+      "freq": 10
+    },
+    {
+      "word": "personality",
+      "meaning": "个性；人格",
+      "freq": 13
+    },
+    {
+      "word": "pledge",
+      "meaning": "誓言；抵押",
+      "freq": 11
+    },
+    {
+      "word": "portray",
+      "meaning": "描绘；刻画",
+      "freq": 11
+    },
+    {
+      "word": "precede",
+      "meaning": "先于；在...之前",
+      "freq": 12
+    },
+    {
+      "word": "preliminary",
+      "meaning": "初步的；预备的",
+      "freq": 11
+    },
+    {
+      "word": "premise",
+      "meaning": "前提",
+      "freq": 11
+    },
+    {
+      "word": "premium",
+      "meaning": "保险费；额外费用；优质的",
+      "freq": 12
+    },
+    {
+      "word": "prescribe",
+      "meaning": "开药；规定",
+      "freq": 11
+    },
+    {
+      "word": "prestige",
+      "meaning": "威望；声望",
+      "freq": 10
+    },
+    {
+      "word": "prey",
+      "meaning": "猎物；捕食",
+      "freq": 11
+    },
+    {
+      "word": "proclaim",
+      "meaning": "宣布；宣告",
+      "freq": 10
+    },
+    {
+      "word": "profile",
+      "meaning": "简介；轮廓",
+      "freq": 12
+    },
+    {
+      "word": "prohibit",
+      "meaning": "禁止",
+      "freq": 12
+    },
+    {
+      "word": "prolong",
+      "meaning": "延长",
+      "freq": 10
+    },
+    {
+      "word": "prominent",
+      "meaning": "突出的；著名的",
+      "freq": 13
+    },
+    {
+      "word": "prone",
+      "meaning": "有...倾向的；俯卧的",
+      "freq": 10
+    },
+    {
+      "word": "prosperity",
+      "meaning": "繁荣；兴旺",
+      "freq": 13
+    },
+    {
+      "word": "provoke",
+      "meaning": "激怒；引起",
+      "freq": 12
+    },
+    {
+      "word": "punctual",
+      "meaning": "准时的",
+      "freq": 10
+    },
+    {
+      "word": "radical",
+      "meaning": "激进的；根本的",
+      "freq": 12
+    },
+    {
+      "word": "realm",
+      "meaning": "领域；王国",
+      "freq": 11
+    },
+    {
+      "word": "recession",
+      "meaning": "衰退；经济衰退",
+      "freq": 13
+    },
+    {
+      "word": "reckon",
+      "meaning": "认为；估算",
+      "freq": 11
+    },
+    {
+      "word": "reconcile",
+      "meaning": "调和；和解",
+      "freq": 11
+    },
+    {
+      "word": "refugee",
+      "meaning": "难民",
+      "freq": 12
+    },
+    {
+      "word": "regime",
+      "meaning": "政权；制度",
+      "freq": 11
+    },
+    {
+      "word": "reign",
+      "meaning": "统治；在位",
+      "freq": 11
+    },
+    {
+      "word": "reject",
+      "meaning": "拒绝；排斥",
+      "freq": 13
+    },
+    {
+      "word": "render",
+      "meaning": "致使；给予；渲染",
+      "freq": 12
+    },
+    {
+      "word": "reproduce",
+      "meaning": "复制；繁殖",
+      "freq": 11
+    },
+    {
+      "word": "resemble",
+      "meaning": "像；类似",
+      "freq": 12
+    },
+    {
+      "word": "reserve",
+      "meaning": "预订；保留",
+      "freq": 13
+    },
+    {
+      "word": "resolve",
+      "meaning": "解决；决心",
+      "freq": 13
+    },
+    {
+      "word": "resort",
+      "meaning": "度假胜地；诉诸",
+      "freq": 12
+    },
+    {
+      "word": "restrain",
+      "meaning": "克制；约束",
+      "freq": 12
+    },
+    {
+      "word": "revive",
+      "meaning": "复兴；复苏",
+      "freq": 10
+    },
+    {
+      "word": "ritual",
+      "meaning": "仪式；惯例的",
+      "freq": 10
+    },
+    {
+      "word": "scarcely",
+      "meaning": "几乎不；刚刚",
+      "freq": 11
+    },
+    {
+      "word": "scrutiny",
+      "meaning": "仔细审查",
+      "freq": 11
+    },
+    {
+      "word": "sector",
+      "meaning": "部门；行业",
+      "freq": 13
+    },
+    {
+      "word": "sentiment",
+      "meaning": "情绪；感情",
+      "freq": 11
+    },
+    {
+      "word": "shield",
+      "meaning": "盾牌；保护",
+      "freq": 11
+    },
+    {
+      "word": "shrink",
+      "meaning": "收缩；退缩",
+      "freq": 11
+    },
+    {
+      "word": "simultaneously",
+      "meaning": "同时地",
+      "freq": 12
+    },
+    {
+      "word": "sovereign",
+      "meaning": "主权；君主",
+      "freq": 10
+    },
+    {
+      "word": "span",
+      "meaning": "跨度；持续时间",
+      "freq": 12
+    },
+    {
+      "word": "species",
+      "meaning": "物种",
+      "freq": 13
+    },
+    {
+      "word": "specimen",
+      "meaning": "标本；样本",
+      "freq": 10
+    },
+    {
+      "word": "spectrum",
+      "meaning": "光谱；范围",
+      "freq": 10
+    },
+    {
+      "word": "speculate",
+      "meaning": "推测；投机",
+      "freq": 12
+    },
+    {
+      "word": "spontaneous",
+      "meaning": "自发的；自然的",
+      "freq": 11
+    },
+    {
+      "word": "stereotype",
+      "meaning": "刻板印象",
+      "freq": 12
+    },
+    {
+      "word": "strenuous",
+      "meaning": "费力的；艰苦的",
+      "freq": 10
+    },
+    {
+      "word": "subscribe",
+      "meaning": "订阅；同意",
+      "freq": 12
+    },
+    {
+      "word": "subsidy",
+      "meaning": "补贴；津贴",
+      "freq": 10
+    },
+    {
+      "word": "substitute",
+      "meaning": "替代品；替代",
+      "freq": 13
+    },
+    {
+      "word": "subtle",
+      "meaning": "微妙的；精细的",
+      "freq": 12
+    },
+    {
+      "word": "superficial",
+      "meaning": "表面的；肤浅的",
+      "freq": 11
+    },
+    {
+      "word": "supervise",
+      "meaning": "监督；管理",
+      "freq": 12
+    },
+    {
+      "word": "supplement",
+      "meaning": "补充；增刊",
+      "freq": 11
+    },
+    {
+      "word": "suppress",
+      "meaning": "镇压；抑制",
+      "freq": 11
+    },
+    {
+      "word": "surpass",
+      "meaning": "超越；超过",
+      "freq": 11
+    },
+    {
+      "word": "sympathy",
+      "meaning": "同情",
+      "freq": 12
+    },
+    {
+      "word": "symptom",
+      "meaning": "症状；征兆",
+      "freq": 13
+    },
+    {
+      "word": "synthesis",
+      "meaning": "综合；合成",
+      "freq": 10
+    },
+    {
+      "word": "terminal",
+      "meaning": "终端的；末期的",
+      "freq": 11
+    },
+    {
+      "word": "territory",
+      "meaning": "领土；领域",
+      "freq": 12
+    },
+    {
+      "word": "testify",
+      "meaning": "作证；证明",
+      "freq": 10
+    },
+    {
+      "word": "therapy",
+      "meaning": "治疗；疗法",
+      "freq": 12
+    },
+    {
+      "word": "thorough",
+      "meaning": "彻底的；全面的",
+      "freq": 12
+    },
+    {
+      "word": "threshold",
+      "meaning": "门槛；入口",
+      "freq": 10
+    },
+    {
+      "word": "transaction",
+      "meaning": "交易",
+      "freq": 13
+    },
+    {
+      "word": "transmit",
+      "meaning": "传输；传播",
+      "freq": 12
+    },
+    {
+      "word": "transparent",
+      "meaning": "透明的",
+      "freq": 11
+    },
+    {
+      "word": "triumph",
+      "meaning": "胜利；成功",
+      "freq": 11
+    },
+    {
+      "word": "undergraduate",
+      "meaning": "本科生",
+      "freq": 12
+    },
+    {
+      "word": "unemployment",
+      "meaning": "失业",
+      "freq": 13
+    },
+    {
+      "word": "unprecedented",
+      "meaning": "前所未有的",
+      "freq": 10
+    },
+    {
+      "word": "vaccine",
+      "meaning": "疫苗",
+      "freq": 11
+    },
+    {
+      "word": "verdict",
+      "meaning": "裁决；判断",
+      "freq": 10
+    },
+    {
+      "word": "verify",
+      "meaning": "验证；核实",
+      "freq": 12
+    },
+    {
+      "word": "veteran",
+      "meaning": "老手；退伍军人",
+      "freq": 10
+    },
+    {
+      "word": "vigorous",
+      "meaning": "精力充沛的；强有力的",
+      "freq": 10
+    },
+    {
+      "word": "warrant",
+      "meaning": "保证；授权",
+      "freq": 10
+    },
+    {
+      "word": "withstand",
+      "meaning": "承受；抵抗",
+      "freq": 11
+    },
+    {
+      "word": "abdomen",
+      "meaning": "腹部",
+      "freq": 5
+    },
+    {
+      "word": "abnormal",
+      "meaning": "不正常的",
+      "freq": 7
+    },
+    {
+      "word": "abolish",
+      "meaning": "废除",
+      "freq": 8
+    },
+    {
+      "word": "absurd",
+      "meaning": "荒谬的",
+      "freq": 6
+    },
+    {
+      "word": "accessory",
+      "meaning": "配件；从犯",
+      "freq": 5
+    },
+    {
+      "word": "accountant",
+      "meaning": "会计",
+      "freq": 5
+    },
+    {
+      "word": "acid",
+      "meaning": "酸；酸的",
+      "freq": 6
+    },
+    {
+      "word": "activate",
+      "meaning": "激活",
+      "freq": 7
+    },
+    {
+      "word": "acute",
+      "meaning": "急性的；敏锐的",
+      "freq": 8
+    },
+    {
+      "word": "adjoin",
+      "meaning": "毗邻",
+      "freq": 5
+    },
+    {
+      "word": "adolescent",
+      "meaning": "青少年",
+      "freq": 8
+    },
+    {
+      "word": "advent",
+      "meaning": "到来；出现",
+      "freq": 5
+    },
+    {
+      "word": "aerial",
+      "meaning": "空中的；天线",
+      "freq": 6
+    },
+    {
+      "word": "aesthetic",
+      "meaning": "审美的；美学的",
+      "freq": 8
+    },
+    {
+      "word": "agenda",
+      "meaning": "议程",
+      "freq": 8
+    },
+    {
+      "word": "alien",
+      "meaning": "外国的；外星人",
+      "freq": 6
+    },
+    {
+      "word": "alliance",
+      "meaning": "联盟",
+      "freq": 8
+    },
+    {
+      "word": "allowance",
+      "meaning": "津贴；零用钱",
+      "freq": 6
+    },
+    {
+      "word": "altitude",
+      "meaning": "海拔；高度",
+      "freq": 6
+    },
+    {
+      "word": "amateur",
+      "meaning": "业余爱好者",
+      "freq": 7
+    },
+    {
+      "word": "ambassador",
+      "meaning": "大使",
+      "freq": 7
+    },
+    {
+      "word": "anchor",
+      "meaning": "锚；主持人",
+      "freq": 7
+    },
+    {
+      "word": "angel",
+      "meaning": "天使",
+      "freq": 6
+    },
+    {
+      "word": "antenna",
+      "meaning": "天线；触角",
+      "freq": 5
+    },
+    {
+      "word": "appetite",
+      "meaning": "食欲；胃口",
+      "freq": 8
+    },
+    {
+      "word": "appliance",
+      "meaning": "电器；器具",
+      "freq": 6
+    },
+    {
+      "word": "applicable",
+      "meaning": "适用的；合适的",
+      "freq": 7
+    },
+    {
+      "word": "appraisal",
+      "meaning": "评价；估计",
+      "freq": 5
+    },
+    {
+      "word": "apt",
+      "meaning": "恰当的；有...倾向的",
+      "freq": 6
+    },
+    {
+      "word": "archaeology",
+      "meaning": "考古学",
+      "freq": 5
+    },
+    {
+      "word": "arithmetic",
+      "meaning": "算术",
+      "freq": 5
+    },
+    {
+      "word": "arrogant",
+      "meaning": "傲慢的",
+      "freq": 6
+    },
+    {
+      "word": "artery",
+      "meaning": "动脉；干线",
+      "freq": 5
+    },
+    {
+      "word": "articulate",
+      "meaning": "清晰表达的；清楚地说",
+      "freq": 7
+    },
+    {
+      "word": "ascend",
+      "meaning": "上升；攀登",
+      "freq": 5
+    },
+    {
+      "word": "ascribe",
+      "meaning": "归因于",
+      "freq": 6
+    },
+    {
+      "word": "assault",
+      "meaning": "攻击；袭击",
+      "freq": 6
+    },
+    {
+      "word": "asset",
+      "meaning": "资产；优点",
+      "freq": 9
+    },
+    {
+      "word": "astronomy",
+      "meaning": "天文学",
+      "freq": 5
+    },
+    {
+      "word": "athlete",
+      "meaning": "运动员",
+      "freq": 8
+    },
+    {
+      "word": "atom",
+      "meaning": "原子",
+      "freq": 6
+    },
+    {
+      "word": "auction",
+      "meaning": "拍卖",
+      "freq": 5
+    },
+    {
+      "word": "audit",
+      "meaning": "审计；查账",
+      "freq": 5
+    },
+    {
+      "word": "auxiliary",
+      "meaning": "辅助的；备用的",
+      "freq": 5
+    },
+    {
+      "word": "aviation",
+      "meaning": "航空",
+      "freq": 5
+    },
+    {
+      "word": "bachelor",
+      "meaning": "学士；单身汉",
+      "freq": 7
+    },
+    {
+      "word": "bacteria",
+      "meaning": "细菌",
+      "freq": 7
+    },
+    {
+      "word": "ballet",
+      "meaning": "芭蕾",
+      "freq": 5
+    },
+    {
+      "word": "ballot",
+      "meaning": "选票；投票",
+      "freq": 6
+    },
+    {
+      "word": "ban",
+      "meaning": "禁止",
+      "freq": 9
+    },
+    {
+      "word": "bandage",
+      "meaning": "绷带",
+      "freq": 5
+    },
+    {
+      "word": "banner",
+      "meaning": "横幅",
+      "freq": 6
+    },
+    {
+      "word": "barren",
+      "meaning": "贫瘠的；不育的",
+      "freq": 5
+    },
+    {
+      "word": "beam",
+      "meaning": "梁；光束；微笑",
+      "freq": 7
+    },
+    {
+      "word": "bearing",
+      "meaning": "关系；方位；轴承",
+      "freq": 6
+    },
+    {
+      "word": "belly",
+      "meaning": "肚子",
+      "freq": 5
+    },
+    {
+      "word": "betray",
+      "meaning": "背叛；泄露",
+      "freq": 7
+    },
+    {
+      "word": "beverage",
+      "meaning": "饮料",
+      "freq": 5
+    },
+    {
+      "word": "bewilder",
+      "meaning": "使困惑",
+      "freq": 5
+    },
+    {
+      "word": "bias",
+      "meaning": "偏见；偏向",
+      "freq": 8
+    },
+    {
+      "word": "bibliography",
+      "meaning": "书目；参考书目",
+      "freq": 5
+    },
+    {
+      "word": "bid",
+      "meaning": "投标；出价",
+      "freq": 8
+    },
+    {
+      "word": "bind",
+      "meaning": "绑定；束缚",
+      "freq": 7
+    },
+    {
+      "word": "blade",
+      "meaning": "刀片；叶片",
+      "freq": 6
+    },
+    {
+      "word": "blast",
+      "meaning": "爆炸；一阵",
+      "freq": 7
+    },
+    {
+      "word": "bleak",
+      "meaning": "荒凉的；暗淡的",
+      "freq": 6
+    },
+    {
+      "word": "blend",
+      "meaning": "混合；调和",
+      "freq": 7
+    },
+    {
+      "word": "bless",
+      "meaning": "祝福",
+      "freq": 7
+    },
+    {
+      "word": "blossom",
+      "meaning": "花；开花",
+      "freq": 5
+    },
+    {
+      "word": "blunder",
+      "meaning": "大错；犯错",
+      "freq": 5
+    },
+    {
+      "word": "blunt",
+      "meaning": "钝的；直率的",
+      "freq": 6
+    },
+    {
+      "word": "bonus",
+      "meaning": "奖金；红利",
+      "freq": 8
+    },
+    {
+      "word": "booth",
+      "meaning": "摊位；电话亭",
+      "freq": 5
+    },
+    {
+      "word": "bounce",
+      "meaning": "弹跳；反弹",
+      "freq": 6
+    },
+    {
+      "word": "bound",
+      "meaning": "必然的；边界；跳跃",
+      "freq": 7
+    },
+    {
+      "word": "breed",
+      "meaning": "品种；繁殖",
+      "freq": 7
+    },
+    {
+      "word": "bribe",
+      "meaning": "贿赂",
+      "freq": 6
+    },
+    {
+      "word": "brisk",
+      "meaning": "轻快的；敏锐的",
+      "freq": 5
+    },
+    {
+      "word": "brochure",
+      "meaning": "小册子",
+      "freq": 5
+    },
+    {
+      "word": "bronze",
+      "meaning": "青铜色；青铜",
+      "freq": 5
+    },
+    {
+      "word": "bulk",
+      "meaning": "大量；体积",
+      "freq": 7
+    },
+    {
+      "word": "bulletin",
+      "meaning": "公告；简报",
+      "freq": 6
+    },
+    {
+      "word": "bully",
+      "meaning": "欺凌",
+      "freq": 7
+    },
+    {
+      "word": "bypass",
+      "meaning": "绕过；旁路",
+      "freq": 5
+    },
+    {
+      "word": "cabinet",
+      "meaning": "橱柜；内阁",
+      "freq": 7
+    },
+    {
+      "word": "calcium",
+      "meaning": "钙",
+      "freq": 5
+    },
+    {
+      "word": "calendar",
+      "meaning": "日历",
+      "freq": 8
+    },
+    {
+      "word": "campaign",
+      "meaning": "运动；战役",
+      "freq": 9
+    },
+    {
+      "word": "cancel",
+      "meaning": "取消",
+      "freq": 9
+    },
+    {
+      "word": "candidate",
+      "meaning": "候选人",
+      "freq": 9
+    },
+    {
+      "word": "canvas",
+      "meaning": "画布；帆布",
+      "freq": 5
+    },
+    {
+      "word": "capsule",
+      "meaning": "胶囊；太空舱",
+      "freq": 5
+    },
+    {
+      "word": "captive",
+      "meaning": "俘虏；被俘的",
+      "freq": 5
+    },
+    {
+      "word": "carbon",
+      "meaning": "碳",
+      "freq": 9
+    },
+    {
+      "word": "career",
+      "meaning": "职业；生涯",
+      "freq": 9
+    },
+    {
+      "word": "carve",
+      "meaning": "雕刻",
+      "freq": 5
+    },
+    {
+      "word": "catalog",
+      "meaning": "目录",
+      "freq": 6
+    },
+    {
+      "word": "catastrophe",
+      "meaning": "灾难",
+      "freq": 6
+    },
+    {
+      "word": "cater",
+      "meaning": "满足；提供餐饮",
+      "freq": 6
+    },
+    {
+      "word": "caution",
+      "meaning": "谨慎；警告",
+      "freq": 7
+    },
+    {
+      "word": "census",
+      "meaning": "人口普查",
+      "freq": 5
+    },
+    {
+      "word": "certify",
+      "meaning": "证明；认证",
+      "freq": 6
+    },
+    {
+      "word": "chamber",
+      "meaning": "房间；议院",
+      "freq": 8
+    },
+    {
+      "word": "chancellor",
+      "meaning": "总理；大臣",
+      "freq": 5
+    },
+    {
+      "word": "charter",
+      "meaning": "宪章；特许",
+      "freq": 5
+    },
+    {
+      "word": "cherish",
+      "meaning": "珍爱；珍惜",
+      "freq": 7
+    },
+    {
+      "word": "chop",
+      "meaning": "砍；剁",
+      "freq": 5
+    },
+    {
+      "word": "chorus",
+      "meaning": "合唱；齐声",
+      "freq": 5
+    },
+    {
+      "word": "cite",
+      "meaning": "引用；引证",
+      "freq": 8
+    },
+    {
+      "word": "clarity",
+      "meaning": "清晰；明确",
+      "freq": 6
+    },
+    {
+      "word": "clash",
+      "meaning": "冲突；碰撞",
+      "freq": 6
+    },
+    {
+      "word": "clause",
+      "meaning": "条款；从句",
+      "freq": 7
+    },
+    {
+      "word": "client",
+      "meaning": "客户",
+      "freq": 9
+    },
+    {
+      "word": "cling",
+      "meaning": "紧握；依恋",
+      "freq": 7
+    },
+    {
+      "word": "clip",
+      "meaning": "夹子；剪辑",
+      "freq": 6
+    },
+    {
+      "word": "cluster",
+      "meaning": "集群；簇",
+      "freq": 6
+    },
+    {
+      "word": "coalition",
+      "meaning": "联盟；联合",
+      "freq": 7
+    },
+    {
+      "word": "cognitive",
+      "meaning": "认知的",
+      "freq": 8
+    },
+    {
+      "word": "coherent",
+      "meaning": "连贯的；一致的",
+      "freq": 7
+    },
+    {
+      "word": "collaborate",
+      "meaning": "合作",
+      "freq": 8
+    },
+    {
+      "word": "combat",
+      "meaning": "战斗；对抗",
+      "freq": 7
+    },
+    {
+      "word": "commemorate",
+      "meaning": "纪念",
+      "freq": 5
+    },
+    {
+      "word": "commence",
+      "meaning": "开始",
+      "freq": 5
+    },
+    {
+      "word": "commend",
+      "meaning": "赞扬；推荐",
+      "freq": 5
+    },
+    {
+      "word": "commentary",
+      "meaning": "评论；评注",
+      "freq": 6
+    },
+    {
+      "word": "commodity",
+      "meaning": "商品",
+      "freq": 8
+    },
+    {
+      "word": "commute",
+      "meaning": "通勤；减刑",
+      "freq": 6
+    },
+    {
+      "word": "compact",
+      "meaning": "紧凑的；协议",
+      "freq": 6
+    },
+    {
+      "word": "comparable",
+      "meaning": "可比较的；类似的",
+      "freq": 7
+    },
+    {
+      "word": "compartment",
+      "meaning": "隔间；车厢",
+      "freq": 5
+    },
+    {
+      "word": "compassion",
+      "meaning": "同情；怜悯",
+      "freq": 6
+    },
+    {
+      "word": "compatible",
+      "meaning": "兼容的；相配的",
+      "freq": 8
+    },
+    {
+      "word": "compile",
+      "meaning": "编译；汇编",
+      "freq": 7
+    },
+    {
+      "word": "compliance",
+      "meaning": "遵守；合规",
+      "freq": 7
+    },
+    {
+      "word": "compulsory",
+      "meaning": "强制的；必修的",
+      "freq": 6
+    },
+    {
+      "word": "concede",
+      "meaning": "承认；让步",
+      "freq": 6
+    },
+    {
+      "word": "confess",
+      "meaning": "坦白；承认",
+      "freq": 7
+    },
+    {
+      "word": "configuration",
+      "meaning": "配置；结构",
+      "freq": 5
+    },
+    {
+      "word": "conscientious",
+      "meaning": "尽责的；认真的",
+      "freq": 6
+    },
+    {
+      "word": "consecutive",
+      "meaning": "连续的",
+      "freq": 5
+    },
+    {
+      "word": "consensus",
+      "meaning": "共识",
+      "freq": 7
+    },
+    {
+      "word": "console",
+      "meaning": "安慰；控制台",
+      "freq": 6
+    },
+    {
+      "word": "conspicuous",
+      "meaning": "明显的；显眼的",
+      "freq": 6
+    },
+    {
+      "word": "constrain",
+      "meaning": "约束；限制",
+      "freq": 6
+    },
+    {
+      "word": "consult",
+      "meaning": "咨询；查阅",
+      "freq": 8
+    },
+    {
+      "word": "contaminate",
+      "meaning": "污染；毒害",
+      "freq": 6
+    },
+    {
+      "word": "contend",
+      "meaning": "竞争；主张",
+      "freq": 6
+    },
+    {
+      "word": "contrive",
+      "meaning": "设法做到；设计",
+      "freq": 5
+    },
+    {
+      "word": "controversy",
+      "meaning": "争论；争议",
+      "freq": 8
+    },
+    {
+      "word": "convene",
+      "meaning": "召集；开会",
+      "freq": 5
+    },
+    {
+      "word": "converge",
+      "meaning": "汇聚；趋同",
+      "freq": 5
+    },
+    {
+      "word": "convict",
+      "meaning": "定罪；囚犯",
+      "freq": 6
+    },
+    {
+      "word": "coordinate",
+      "meaning": "协调；坐标",
+      "freq": 8
+    },
+    {
+      "word": "cord",
+      "meaning": "绳索；电线",
+      "freq": 5
+    },
+    {
+      "word": "correlate",
+      "meaning": "相关；关联",
+      "freq": 6
+    },
+    {
+      "word": "corrode",
+      "meaning": "腐蚀",
+      "freq": 5
+    },
+    {
+      "word": "corrupt",
+      "meaning": "腐败的；使腐败",
+      "freq": 7
+    },
+    {
+      "word": "counselor",
+      "meaning": "顾问；辅导员",
+      "freq": 5
+    },
+    {
+      "word": "courtesy",
+      "meaning": "礼貌；好意",
+      "freq": 6
+    },
+    {
+      "word": "crawl",
+      "meaning": "爬行",
+      "freq": 5
+    },
+    {
+      "word": "credentials",
+      "meaning": "证书；凭证",
+      "freq": 6
+    },
+    {
+      "word": "crown",
+      "meaning": "皇冠；王冠",
+      "freq": 7
+    },
+    {
+      "word": "cruise",
+      "meaning": "巡航；游览",
+      "freq": 5
+    },
+    {
+      "word": "crush",
+      "meaning": "压碎；迷恋",
+      "freq": 6
+    },
+    {
+      "word": "crystal",
+      "meaning": "水晶；晶体",
+      "freq": 6
+    },
+    {
+      "word": "curb",
+      "meaning": "控制；抑制",
+      "freq": 6
+    },
+    {
+      "word": "curriculum",
+      "meaning": "课程",
+      "freq": 8
+    },
+    {
+      "word": "database",
+      "meaning": "数据库",
+      "freq": 8
+    },
+    {
+      "word": "dazzle",
+      "meaning": "使目眩；使惊叹",
+      "freq": 5
+    },
+    {
+      "word": "deadline",
+      "meaning": "截止日期",
+      "freq": 8
+    },
+    {
+      "word": "dean",
+      "meaning": "院长；系主任",
+      "freq": 5
+    },
+    {
+      "word": "decay",
+      "meaning": "腐烂；衰退",
+      "freq": 7
+    },
+    {
+      "word": "deception",
+      "meaning": "欺骗；骗局",
+      "freq": 5
+    },
+    {
+      "word": "decree",
+      "meaning": "法令；判决",
+      "freq": 5
+    },
+    {
+      "word": "deduct",
+      "meaning": "扣除；减去",
+      "freq": 5
+    },
+    {
+      "word": "deficit",
+      "meaning": "赤字；不足",
+      "freq": 8
+    },
+    {
+      "word": "defy",
+      "meaning": "挑战；违抗",
+      "freq": 6
+    },
+    {
+      "word": "delegate",
+      "meaning": "代表；委派",
+      "freq": 6
+    },
+    {
+      "word": "delete",
+      "meaning": "删除",
+      "freq": 8
+    },
+    {
+      "word": "demographic",
+      "meaning": "人口的；人口统计的",
+      "freq": 7
+    },
+    {
+      "word": "denial",
+      "meaning": "否认；拒绝",
+      "freq": 7
+    },
+    {
+      "word": "denote",
+      "meaning": "表示；意味着",
+      "freq": 6
+    },
+    {
+      "word": "density",
+      "meaning": "密度",
+      "freq": 7
+    },
+    {
+      "word": "dentist",
+      "meaning": "牙医",
+      "freq": 5
+    },
+    {
+      "word": "depict",
+      "meaning": "描绘；描述",
+      "freq": 7
+    },
+    {
+      "word": "deploy",
+      "meaning": "部署；展开",
+      "freq": 7
+    },
+    {
+      "word": "depression",
+      "meaning": "抑郁；萧条",
+      "freq": 9
+    },
+    {
+      "word": "designate",
+      "meaning": "指定；任命",
+      "freq": 6
+    },
+    {
+      "word": "detach",
+      "meaning": "分离；分开",
+      "freq": 6
+    },
+    {
+      "word": "detain",
+      "meaning": "拘留；扣留",
+      "freq": 6
+    },
+    {
+      "word": "detect",
+      "meaning": "检测；发现",
+      "freq": 8
+    },
+    {
+      "word": "deviate",
+      "meaning": "偏离；背离",
+      "freq": 5
+    },
+    {
+      "word": "devise",
+      "meaning": "设计；发明",
+      "freq": 6
+    },
+    {
+      "word": "dial",
+      "meaning": "拨号；刻度盘",
+      "freq": 5
+    },
+    {
+      "word": "diameter",
+      "meaning": "直径",
+      "freq": 5
+    },
+    {
+      "word": "dictate",
+      "meaning": "命令；听写",
+      "freq": 6
+    },
+    {
+      "word": "digest",
+      "meaning": "消化；文摘",
+      "freq": 6
+    },
+    {
+      "word": "digital",
+      "meaning": "数字的",
+      "freq": 9
+    },
+    {
+      "word": "dim",
+      "meaning": "昏暗的；模糊的",
+      "freq": 6
+    },
+    {
+      "word": "diploma",
+      "meaning": "文凭；毕业证书",
+      "freq": 6
+    },
+    {
+      "word": "discard",
+      "meaning": "丢弃；抛弃",
+      "freq": 6
+    },
+    {
+      "word": "discern",
+      "meaning": "辨别；看出",
+      "freq": 5
+    },
+    {
+      "word": "disrupt",
+      "meaning": "扰乱；中断",
+      "freq": 7
+    },
+    {
+      "word": "dissolve",
+      "meaning": "溶解；解散",
+      "freq": 6
+    },
+    {
+      "word": "distinct",
+      "meaning": "明显的；独特的",
+      "freq": 8
+    },
+    {
+      "word": "distract",
+      "meaning": "分心；分散",
+      "freq": 7
+    },
+    {
+      "word": "dividend",
+      "meaning": "股息；红利",
+      "freq": 5
+    },
+    {
+      "word": "doctrine",
+      "meaning": "教义；学说",
+      "freq": 6
+    },
+    {
+      "word": "documentary",
+      "meaning": "纪录片",
+      "freq": 5
+    },
+    {
+      "word": "doom",
+      "meaning": "厄运；毁灭",
+      "freq": 5
+    },
+    {
+      "word": "dose",
+      "meaning": "剂量",
+      "freq": 7
+    },
+    {
+      "word": "drain",
+      "meaning": "排水；消耗",
+      "freq": 7
+    },
+    {
+      "word": "drift",
+      "meaning": "漂移；趋势",
+      "freq": 6
+    },
+    {
+      "word": "dual",
+      "meaning": "双重的",
+      "freq": 7
+    },
+    {
+      "word": "dubious",
+      "meaning": "可疑的；半信半疑的",
+      "freq": 5
+    },
+    {
+      "word": "dump",
+      "meaning": "倾倒；垃圾场",
+      "freq": 6
+    },
+    {
+      "word": "duration",
+      "meaning": "持续时间",
+      "freq": 7
+    },
+    {
+      "word": "dwell",
+      "meaning": "居住；细想",
+      "freq": 7
+    },
+    {
+      "word": "ecology",
+      "meaning": "生态学；生态",
+      "freq": 8
+    },
+    {
+      "word": "edit",
+      "meaning": "编辑",
+      "freq": 8
+    },
+    {
+      "word": "elastic",
+      "meaning": "弹性的；灵活的",
+      "freq": 6
+    },
+    {
+      "word": "elbow",
+      "meaning": "肘部",
+      "freq": 5
+    },
+    {
+      "word": "elect",
+      "meaning": "选举；选择",
+      "freq": 8
+    },
+    {
+      "word": "electron",
+      "meaning": "电子",
+      "freq": 5
+    },
+    {
+      "word": "elevate",
+      "meaning": "提升；提高",
+      "freq": 6
+    },
+    {
+      "word": "eligible",
+      "meaning": "有资格的；合格的",
+      "freq": 7
+    },
+    {
+      "word": "eloquent",
+      "meaning": "雄辩的；有口才的",
+      "freq": 5
+    },
+    {
+      "word": "embark",
+      "meaning": "上船；开始",
+      "freq": 6
+    },
+    {
+      "word": "embed",
+      "meaning": "嵌入",
+      "freq": 7
+    },
+    {
+      "word": "embody",
+      "meaning": "体现；包含",
+      "freq": 5
+    },
+    {
+      "word": "endorse",
+      "meaning": "赞同；背书",
+      "freq": 6
+    },
+    {
+      "word": "endure",
+      "meaning": "忍受；持续",
+      "freq": 7
+    },
+    {
+      "word": "engine",
+      "meaning": "引擎；发动机",
+      "freq": 9
+    },
+    {
+      "word": "enlarge",
+      "meaning": "扩大；放大",
+      "freq": 6
+    },
+    {
+      "word": "enrich",
+      "meaning": "丰富；充实",
+      "freq": 6
+    },
+    {
+      "word": "enroll",
+      "meaning": "注册；登记",
+      "freq": 7
+    },
+    {
+      "word": "entail",
+      "meaning": "需要；导致",
+      "freq": 5
+    },
+    {
+      "word": "enter",
+      "meaning": "进入；参加",
+      "freq": 9
+    },
+    {
+      "word": "entity",
+      "meaning": "实体",
+      "freq": 7
+    },
+    {
+      "word": "entrepreneur",
+      "meaning": "企业家",
+      "freq": 9
+    },
+    {
+      "word": "entry",
+      "meaning": "进入；条目",
+      "freq": 8
+    },
+    {
+      "word": "environment",
+      "meaning": "环境",
+      "freq": 9
+    },
+    {
+      "word": "epidemic",
+      "meaning": "流行病；流行的",
+      "freq": 8
+    },
+    {
+      "word": "episode",
+      "meaning": "情节；插曲",
+      "freq": 7
+    },
+    {
+      "word": "equation",
+      "meaning": "方程；等式",
+      "freq": 6
+    },
+    {
+      "word": "era",
+      "meaning": "时代；纪元",
+      "freq": 8
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CET-6 Vocabulary Learning</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>CET-6 词汇学习工具</h1>
+    <div class="subtitle">Interactive Vocabulary Learning for CET-6 Preparation</div>
+  </header>
+  
+  <nav class="tabs">
+    <button class="tab active" data-tab="words">单词管理</button>
+    <button class="tab" data-tab="reading">阅读文本</button>
+    <button class="tab" data-tab="chat">聊天</button>
+  </nav>
+
+  <!-- ============ TAB: WORDS ============ -->
+  <section id="tab-words" class="tab-content active">
+    <div class="word-input-area">
+      <input type="text" id="word-input" placeholder="输入英语单词 (e.g. abandon)" autocomplete="off">
+      <input type="text" id="meaning-input" placeholder="输入汉语意思" autocomplete="off">
+      <button id="add-word-btn" class="btn btn-primary">加 入 (Add)</button>
+      <div id="input-hint" class="hint"></div>
+    </div>
+    
+    <div class="check-area">
+      <input type="text" id="check-input" placeholder="检查单词是否在CET-6中...">
+      <button id="check-btn" class="btn btn-outline">检查</button>
+      <div id="check-result" class="hint"></div>
+    </div>
+
+    <div class="legend">
+      <span class="legend-item"><span class="dot red"></span> 高频 (≥10次)</span>
+      <span class="legend-item"><span class="dot blue"></span> 中频 (3~10)</span>
+      <span class="legend-item"><span class="dot green"></span> 低频 (1~3)</span>
+      <span class="legend-item"><span class="dot gray"></span> 非CET-6 (0次)</span>
+    </div>
+
+    <div class="stats">
+      <span id="word-count">0</span> 个单词已录入 |
+      CET-6词库 <span id="cet6-total">0</span> 个
+    </div>
+
+    <div id="word-list" class="word-list"></div>
+  </section>
+
+  <!-- ============ TAB: READING ============ -->
+  <section id="tab-reading" class="tab-content">
+    <div class="reading-controls">
+      <div class="control-row">
+        <label>主题 (Topic):</label>
+        <input type="text" id="reading-topic" placeholder="e.g. environmental protection, technology...">
+      </div>
+      <div class="control-row">
+        <label>风格 (Style):</label>
+        <select id="reading-style">
+          <option value="">随机 (Random)</option>
+          <option value="descriptive">描述性 (Descriptive)</option>
+          <option value="narrative">叙事性 (Narrative)</option>
+          <option value="argumentative">议论性 (Argumentative)</option>
+          <option value="expository">说明性 (Expository)</option>
+        </select>
+      </div>
+      <div class="control-row">
+        <label>结构 (Structure):</label>
+        <select id="reading-structure">
+          <option value="">默认 (Default)</option>
+          <option value="introduction-body-conclusion">总-分-总</option>
+          <option value="problem-solution">问题-对策</option>
+          <option value="compare-contrast">对比-比较</option>
+          <option value="cause-effect">原因-结果</option>
+        </select>
+      </div>
+      <div class="control-row">
+        <label>长度 (Length):</label>
+        <input type="number" id="reading-length" placeholder="默认 250 词" min="50" max="2000">
+      </div>
+      <button id="generate-text-btn" class="btn btn-primary">生成阅读文本</button>
+    </div>
+    <div id="reading-output" class="reading-output"></div>
+  </section>
+
+  <!-- ============ TAB: CHAT ============ -->
+  <section id="tab-chat" class="tab-content">
+    <div class="chat-setup">
+      <label>聊天对象身份 (Persona):</label>
+      <input type="text" id="chat-persona" placeholder="e.g. a friendly English tutor, a travel guide in London...">
+      <button id="set-persona-btn" class="btn btn-outline">设置身份</button>
+      <span id="persona-display" class="hint"></span>
+    </div>
+    <div id="chat-messages" class="chat-messages"></div>
+    <div class="chat-input-area">
+      <input type="text" id="chat-input" placeholder="Type your message..." autocomplete="off">
+      <button id="send-chat-btn" class="btn btn-primary">发送</button>
+    </div>
+  </section>
+
+  <!-- ============ Edit Modal ============ -->
+  <div id="edit-modal" class="modal">
+    <div class="modal-content">
+      <h3>编辑单词</h3>
+      <div id="edit-word-display"></div>
+      <label>汉语意思:</label>
+      <input type="text" id="edit-meaning">
+      <label>颜色覆盖:</label>
+      <select id="edit-color">
+        <option value="none">默认 (根据频率)</option>
+        <option value="red">红色</option>
+        <option value="blue">蓝色</option>
+        <option value="green">绿色</option>
+        <option value="gray">灰色</option>
+      </select>
+      <div class="modal-btns">
+        <button id="save-edit-btn" class="btn btn-primary">保存</button>
+        <button id="cancel-edit-btn" class="btn btn-outline">取消</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script src="/app.js"></script>
+</body>
+</html>
